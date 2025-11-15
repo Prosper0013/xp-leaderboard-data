@@ -31,33 +31,47 @@
     },
     {
       "rank": 5,
+      "user_id": 6809654392,
+      "username": "@Apicumi",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 6,
       "user_id": 6940147606,
       "username": "@ba_mi113",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": 6956801586,
       "username": "@dfw_Bigmec",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 9,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 10,
       "user_id": 8099191714,
       "username": "@rockingblub",
       "xp": 0,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-15T15:38:25.652868",
-  "total_users": 8
+  "last_updated": "2025-11-15T15:40:29.424435",
+  "total_users": 10
 }
