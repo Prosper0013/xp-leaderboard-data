@@ -21,8 +21,15 @@
       "username": "@abiclighter",
       "xp": 0,
       "level": 0
+    },
+    {
+      "rank": 4,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 0,
+      "level": 0
     }
   ],
-  "last_updated": "2025-11-15T09:22:20.253969",
-  "total_users": 3
+  "last_updated": "2025-11-15T09:24:24.051881",
+  "total_users": 4
 }
