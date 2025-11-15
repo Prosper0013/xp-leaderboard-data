@@ -17,26 +17,33 @@
     },
     {
       "rank": 3,
+      "user_id": 6940147606,
+      "username": "@ba_mi113",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": 8099191714,
       "username": "@rockingblub",
       "xp": 0,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-15T11:26:46.293482",
-  "total_users": 5
+  "last_updated": "2025-11-15T11:28:49.965219",
+  "total_users": 6
 }
