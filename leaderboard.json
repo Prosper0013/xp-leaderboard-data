@@ -3,15 +3,15 @@
   "leaderboard": [
     {
       "rank": 1,
-      "user_id": 5227839502,
-      "username": "@mrpdevlord",
-      "xp": 63,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 64,
       "level": 0
     },
     {
       "rank": 2,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
+      "user_id": 5227839502,
+      "username": "@mrpdevlord",
       "xp": 63,
       "level": 0
     },
@@ -24,15 +24,15 @@
     },
     {
       "rank": 4,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 3,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 4,
       "level": 0
     },
     {
       "rank": 5,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
       "xp": 3,
       "level": 0
     },
@@ -45,15 +45,15 @@
     },
     {
       "rank": 7,
-      "user_id": 5923072276,
-      "username": "@Yessir_96",
-      "xp": 1,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 2,
       "level": 0
     },
     {
       "rank": 8,
-      "user_id": 7642527839,
-      "username": "RonnyR",
+      "user_id": 5923072276,
+      "username": "@Yessir_96",
       "xp": 1,
       "level": 0
     },
@@ -100,6 +100,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-15T17:11:41.473799",
+  "last_updated": "2025-11-15T17:13:46.975281",
   "total_users": 14
 }
