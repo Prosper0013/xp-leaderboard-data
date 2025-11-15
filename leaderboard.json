@@ -10,12 +10,19 @@
     },
     {
       "rank": 2,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 3,
       "user_id": 8099191714,
       "username": "@rockingblub",
       "xp": 0,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-15T10:57:49.107251",
-  "total_users": 2
+  "last_updated": "2025-11-15T10:59:53.120558",
+  "total_users": 3
 }
