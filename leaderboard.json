@@ -1,6 +1,21 @@
 {
   "success": true,
-  "leaderboard": [],
-  "last_updated": "2025-11-15T10:53:40.654184",
-  "total_users": 0
+  "leaderboard": [
+    {
+      "rank": 1,
+      "user_id": 5788946498,
+      "username": "@DevilleSui",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 2,
+      "user_id": 8099191714,
+      "username": "@rockingblub",
+      "xp": 0,
+      "level": 0
+    }
+  ],
+  "last_updated": "2025-11-15T10:55:44.911537",
+  "total_users": 2
 }
