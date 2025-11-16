@@ -87,15 +87,15 @@
     },
     {
       "rank": 13,
-      "user_id": 6809654392,
-      "username": "@Apicumi",
-      "xp": 0,
+      "user_id": 6940147606,
+      "username": "@ba_mi113",
+      "xp": 1,
       "level": 0
     },
     {
       "rank": 14,
-      "user_id": 6940147606,
-      "username": "@ba_mi113",
+      "user_id": 6809654392,
+      "username": "@Apicumi",
       "xp": 0,
       "level": 0
     },
@@ -107,6 +107,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-16T03:25:44.393446",
+  "last_updated": "2025-11-16T03:27:47.855619",
   "total_users": 15
 }
