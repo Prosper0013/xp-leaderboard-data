@@ -101,19 +101,26 @@
     },
     {
       "rank": 15,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 6809654392,
       "username": "@Apicumi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7090548617,
       "username": "@Eddieshq",
       "xp": 0,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-16T09:57:33.703775",
-  "total_users": 16
+  "last_updated": "2025-11-16T09:59:37.111850",
+  "total_users": 17
 }
