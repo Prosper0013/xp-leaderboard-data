@@ -87,22 +87,22 @@
     },
     {
       "rank": 13,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 14,
       "user_id": 6509977092,
       "username": "@Aperszz",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 6940147606,
       "username": "@ba_mi113",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 15,
-      "user_id": 6969979739,
-      "username": "D",
       "xp": 1,
       "level": 0
     },
@@ -121,6 +121,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-16T14:32:21.026342",
+  "last_updated": "2025-11-16T14:34:24.927810",
   "total_users": 17
 }
