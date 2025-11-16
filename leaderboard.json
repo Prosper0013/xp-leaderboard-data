@@ -24,29 +24,29 @@
     },
     {
       "rank": 4,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 5,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": 5227839502,
       "username": "@mrpdevlord",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 7,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
       "xp": 0,
       "level": 0
     },
@@ -121,6 +121,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-16T16:34:54.791587",
+  "last_updated": "2025-11-16T16:36:58.366736",
   "total_users": 17
 }
