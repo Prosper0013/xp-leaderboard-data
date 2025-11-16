@@ -3,15 +3,15 @@
   "leaderboard": [
     {
       "rank": 1,
-      "user_id": 477422616,
-      "username": "@NovaliteltdAdmin",
-      "xp": 0,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 1,
       "level": 0
     },
     {
       "rank": 2,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
+      "user_id": 477422616,
+      "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
@@ -121,6 +121,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-16T16:00:04.738247",
+  "last_updated": "2025-11-16T16:01:55.879331",
   "total_users": 17
 }
