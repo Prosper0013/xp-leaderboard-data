@@ -1,0 +1,97 @@
+{
+  "success": true,
+  "week_start_date": "2025-11-16",
+  "winners": [
+    {
+      "rank": 1,
+      "user_id": 7105730933,
+      "username": "abiclighter",
+      "first_name": "J.D.L",
+      "display_name": "@abiclighter",
+      "xp": 242,
+      "level": 2
+    },
+    {
+      "rank": 2,
+      "user_id": 7642527839,
+      "username": "",
+      "first_name": "RonnyR",
+      "display_name": "RonnyR",
+      "xp": 90,
+      "level": 0
+    },
+    {
+      "rank": 3,
+      "user_id": 1583661166,
+      "username": "Pluto_Defi",
+      "first_name": "Pluto_Defi",
+      "display_name": "@Pluto_Defi",
+      "xp": 75,
+      "level": 0
+    },
+    {
+      "rank": 4,
+      "user_id": 5227839502,
+      "username": "mrpdevlord",
+      "first_name": "Mr Dev",
+      "display_name": "@mrpdevlord",
+      "xp": 63,
+      "level": 0
+    },
+    {
+      "rank": 5,
+      "user_id": 6956801586,
+      "username": "dfw_Bigmec",
+      "first_name": "Big",
+      "display_name": "@dfw_Bigmec",
+      "xp": 62,
+      "level": 0
+    },
+    {
+      "rank": 6,
+      "user_id": 8099191714,
+      "username": "danmarinosui",
+      "first_name": "DanSui",
+      "display_name": "@danmarinosui",
+      "xp": 62,
+      "level": 0
+    },
+    {
+      "rank": 7,
+      "user_id": 477422616,
+      "username": "NovaliteltdAdmin",
+      "first_name": "\ud83d\udc3e PROSPER",
+      "display_name": "@NovaliteltdAdmin",
+      "xp": 60,
+      "level": 0
+    },
+    {
+      "rank": 8,
+      "user_id": 5788946498,
+      "username": "DevilleSui",
+      "first_name": "Deville",
+      "display_name": "@DevilleSui",
+      "xp": 51,
+      "level": 0
+    },
+    {
+      "rank": 9,
+      "user_id": 5526266767,
+      "username": "mr_nero_art",
+      "first_name": "NERO ART \ud83c\udfa8",
+      "display_name": "@mr_nero_art",
+      "xp": 11,
+      "level": 0
+    },
+    {
+      "rank": 10,
+      "user_id": 5357785251,
+      "username": "milfhunter4888",
+      "first_name": "milfhunter",
+      "display_name": "@milfhunter4888",
+      "xp": 5,
+      "level": 0
+    }
+  ],
+  "last_updated": "2025-11-16T16:00:00.124995"
+}
