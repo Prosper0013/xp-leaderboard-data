@@ -38,16 +38,16 @@
     },
     {
       "rank": 6,
-      "user_id": 5923072276,
-      "username": "@Yessir_96",
-      "xp": 3,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 4,
       "level": 0
     },
     {
       "rank": 7,
-      "user_id": 6969979739,
-      "username": "D",
-      "xp": 2,
+      "user_id": 5923072276,
+      "username": "@Yessir_96",
+      "xp": 3,
       "level": 0
     },
     {
@@ -135,6 +135,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-17T13:10:15.462292",
+  "last_updated": "2025-11-17T13:12:20.333330",
   "total_users": 19
 }
