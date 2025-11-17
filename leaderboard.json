@@ -122,12 +122,19 @@
     },
     {
       "rank": 18,
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 0,
+      "level": 0
+    },
+    {
+      "rank": 19,
       "user_id": 8099191714,
       "username": "@danmarinosui",
       "xp": 0,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-17T10:56:44.521640",
-  "total_users": 18
+  "last_updated": "2025-11-17T10:58:49.260822",
+  "total_users": 19
 }
