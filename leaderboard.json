@@ -45,64 +45,64 @@
     },
     {
       "rank": 7,
+      "user_id": 6956801586,
+      "username": "@dfw_Bigmec",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 8,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 5227839502,
       "username": "@mrpdevlord",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 6509977092,
       "username": "@Aperszz",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 6585170847,
       "username": "@kamripamkaya",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 6809654392,
       "username": "@Apicumi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 6940147606,
       "username": "@ba_mi113",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 15,
-      "user_id": 6956801586,
-      "username": "@dfw_Bigmec",
       "xp": 0,
       "level": 0
     },
@@ -128,6 +128,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-17T03:34:34.280086",
+  "last_updated": "2025-11-17T03:36:38.907607",
   "total_users": 18
 }
