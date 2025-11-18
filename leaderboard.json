@@ -3,23 +3,23 @@
   "leaderboard": [
     {
       "rank": 1,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 313,
+      "level": 3
+    },
+    {
+      "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 312,
       "level": 3
     },
     {
-      "rank": 2,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 311,
-      "level": 3
-    },
-    {
       "rank": 3,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 217,
+      "xp": 218,
       "level": 2
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T09:57:35.608950",
+  "last_updated": "2025-11-18T09:59:42.824394",
   "total_users": 20
 }
