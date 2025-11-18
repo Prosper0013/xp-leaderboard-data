@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 329,
+      "xp": 330,
       "level": 3
     },
     {
@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 70,
+      "xp": 71,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T17:06:50.866704",
+  "last_updated": "2025-11-18T17:08:55.277026",
   "total_users": 20
 }
