@@ -24,16 +24,16 @@
     },
     {
       "rank": 4,
-      "user_id": 6969979739,
-      "username": "D",
-      "xp": 151,
+      "user_id": 5788946498,
+      "username": "@DevilleSui",
+      "xp": 152,
       "level": 1
     },
     {
       "rank": 5,
-      "user_id": 5788946498,
-      "username": "@DevilleSui",
-      "xp": 150,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 151,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T17:56:31.648617",
+  "last_updated": "2025-11-18T17:58:35.359752",
   "total_users": 20
 }
