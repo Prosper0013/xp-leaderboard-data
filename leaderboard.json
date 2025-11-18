@@ -19,14 +19,14 @@
       "rank": 3,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 218,
+      "xp": 219,
       "level": 2
     },
     {
       "rank": 4,
       "user_id": 6969979739,
       "username": "D",
-      "xp": 148,
+      "xp": 150,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T10:25:07.630456",
+  "last_updated": "2025-11-18T10:27:14.261571",
   "total_users": 20
 }
