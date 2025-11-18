@@ -10,16 +10,16 @@
     },
     {
       "rank": 2,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 213,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 215,
       "level": 2
     },
     {
       "rank": 3,
-      "user_id": 7642527839,
-      "username": "RonnyR",
-      "xp": 212,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 213,
       "level": 2
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T05:45:23.762496",
+  "last_updated": "2025-11-18T05:47:28.350036",
   "total_users": 20
 }
