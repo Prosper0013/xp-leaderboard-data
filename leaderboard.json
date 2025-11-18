@@ -26,8 +26,8 @@
       "rank": 4,
       "user_id": 6969979739,
       "username": "D",
-      "xp": 76,
-      "level": 0
+      "xp": 146,
+      "level": 1
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T02:23:19.397300",
+  "last_updated": "2025-11-18T02:25:24.303805",
   "total_users": 20
 }
