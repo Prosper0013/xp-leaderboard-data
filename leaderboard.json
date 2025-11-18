@@ -45,103 +45,103 @@
     },
     {
       "rank": 7,
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 60,
+      "level": 0
+    },
+    {
+      "rank": 8,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 3,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 7484096552,
       "username": "@lleulogyll",
       "xp": 3,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 6013331358,
       "username": "@PrimeUz3",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 7032939933,
       "username": "@ronbachman",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 6585170847,
       "username": "@kamripamkaya",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 6956801586,
       "username": "@dfw_Bigmec",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 7090548617,
       "username": "@Eddieshq",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 5227839502,
       "username": "@mrpdevlord",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 6509977092,
       "username": "@Aperszz",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 6809654392,
       "username": "@Apicumi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 6940147606,
       "username": "@ba_mi113",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2025-11-18T03:36:16.605235",
+  "last_updated": "2025-11-18T03:38:21.428055",
   "total_users": 20
 }
