@@ -5,14 +5,14 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 313,
+      "xp": 316,
       "level": 3
     },
     {
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 313,
+      "xp": 314,
       "level": 3
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-18T10:40:01.953928",
+  "last_updated": "2025-11-18T10:42:08.445706",
   "total_users": 20
 }
