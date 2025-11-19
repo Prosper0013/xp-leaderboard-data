@@ -38,16 +38,16 @@
     },
     {
       "rank": 6,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 71,
-      "level": 0
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 132,
+      "level": 1
     },
     {
       "rank": 7,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 61,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 71,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-19T02:45:17.995871",
+  "last_updated": "2025-11-19T02:47:23.746451",
   "total_users": 20
 }
