@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 526,
+      "xp": 529,
       "level": 5
     },
     {
@@ -52,30 +52,30 @@
     },
     {
       "rank": 8,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 66,
+      "level": 0
+    },
+    {
+      "rank": 9,
       "user_id": 6279291728,
       "username": "@theweb3ray",
       "xp": 9,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 7,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 6956801586,
       "username": "@dfw_Bigmec",
       "xp": 5,
-      "level": 0
-    },
-    {
-      "rank": 11,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-19T10:03:18.850234",
+  "last_updated": "2025-11-19T10:05:24.926291",
   "total_users": 20
 }
