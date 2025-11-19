@@ -5,14 +5,14 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 529,
+      "xp": 531,
       "level": 5
     },
     {
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 503,
+      "xp": 505,
       "level": 5
     },
     {
@@ -89,7 +89,7 @@
       "rank": 13,
       "user_id": 5011504291,
       "username": "@web3legend001",
-      "xp": 3,
+      "xp": 4,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-19T12:03:28.325350",
+  "last_updated": "2025-11-19T12:05:34.780336",
   "total_users": 20
 }
