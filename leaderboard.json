@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 498,
+      "xp": 499,
       "level": 4
     },
     {
@@ -73,16 +73,16 @@
     },
     {
       "rank": 11,
-      "user_id": 7484096552,
-      "username": "@lleulogyll",
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
       "xp": 3,
       "level": 0
     },
     {
       "rank": 12,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 2,
+      "user_id": 7484096552,
+      "username": "@lleulogyll",
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-19T10:01:12.788323",
+  "last_updated": "2025-11-19T10:03:18.850234",
   "total_users": 20
 }
