@@ -108,22 +108,22 @@
     },
     {
       "rank": 16,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 17,
       "user_id": 7484096552,
       "username": "@lleulogyll",
       "xp": 3,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 6013331358,
       "username": "@PrimeUz3",
-      "xp": 2,
-      "level": 0
-    },
-    {
-      "rank": 18,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-20T12:03:59.954034",
+  "last_updated": "2025-11-20T12:06:03.248171",
   "total_users": 20
 }
