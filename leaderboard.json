@@ -122,26 +122,26 @@
     },
     {
       "rank": 18,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 19,
       "user_id": 6095067237,
       "username": "@itsavacrypto",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 6809654392,
       "username": "@Apicumi",
       "xp": 1,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
-      "xp": 1,
-      "level": 0
     }
   ],
-  "last_updated": "2025-11-20T03:53:00.154428",
+  "last_updated": "2025-11-20T03:55:04.799999",
   "total_users": 20
 }
