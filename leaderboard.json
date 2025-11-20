@@ -59,23 +59,23 @@
     },
     {
       "rank": 9,
+      "user_id": 5011504291,
+      "username": "@web3legend001",
+      "xp": 9,
+      "level": 0
+    },
+    {
+      "rank": 10,
       "user_id": 6279291728,
       "username": "@theweb3ray",
       "xp": 9,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 7032939933,
       "username": "@ronbachman",
       "xp": 9,
-      "level": 0
-    },
-    {
-      "rank": 11,
-      "user_id": 5011504291,
-      "username": "@web3legend001",
-      "xp": 8,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-19T22:08:25.629867",
+  "last_updated": "2025-11-19T22:10:31.744973",
   "total_users": 20
 }
