@@ -5,8 +5,8 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 760,
-      "level": 7
+      "xp": 860,
+      "level": 8
     },
     {
       "rank": 2,
@@ -19,8 +19,8 @@
       "rank": 3,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 354,
-      "level": 3
+      "xp": 429,
+      "level": 4
     },
     {
       "rank": 4,
@@ -52,16 +52,16 @@
     },
     {
       "rank": 8,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
+      "user_id": 5011504291,
+      "username": "@web3legend001",
       "xp": 66,
       "level": 0
     },
     {
       "rank": 9,
-      "user_id": 5011504291,
-      "username": "@web3legend001",
-      "xp": 16,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 66,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-20T17:59:58.797030",
+  "last_updated": "2025-11-20T18:02:02.216298",
   "total_users": 20
 }
