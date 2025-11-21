@@ -45,22 +45,22 @@
     },
     {
       "rank": 7,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 126,
+      "level": 1
+    },
+    {
+      "rank": 8,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
       "xp": 81,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 5011504291,
       "username": "@web3legend001",
-      "xp": 66,
-      "level": 0
-    },
-    {
-      "rank": 9,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
       "xp": 66,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-20T21:43:55.397621",
+  "last_updated": "2025-11-20T21:45:58.874566",
   "total_users": 20
 }
