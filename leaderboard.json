@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 970,
+      "xp": 971,
       "level": 9
     },
     {
@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 80,
+      "xp": 81,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T11:10:35.956721",
+  "last_updated": "2025-11-21T11:12:39.055045",
   "total_users": 20
 }
