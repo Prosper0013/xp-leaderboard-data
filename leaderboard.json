@@ -5,14 +5,14 @@
       "rank": 1,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 1014,
+      "xp": 1015,
       "level": 10
     },
     {
       "rank": 2,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 977,
+      "xp": 978,
       "level": 9
     },
     {
@@ -82,7 +82,7 @@
       "rank": 12,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 9,
+      "xp": 13,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T12:34:58.250353",
+  "last_updated": "2025-11-21T12:37:01.710457",
   "total_users": 20
 }
