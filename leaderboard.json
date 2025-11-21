@@ -17,17 +17,17 @@
     },
     {
       "rank": 3,
-      "user_id": 7642527839,
-      "username": "RonnyR",
-      "xp": 433,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 437,
       "level": 4
     },
     {
       "rank": 4,
-      "user_id": 6969979739,
-      "username": "D",
-      "xp": 335,
-      "level": 3
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 433,
+      "level": 4
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T03:49:55.887934",
+  "last_updated": "2025-11-21T03:51:58.970511",
   "total_users": 20
 }
