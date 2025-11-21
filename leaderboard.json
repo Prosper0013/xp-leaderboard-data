@@ -54,7 +54,7 @@
       "rank": 8,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 84,
+      "xp": 85,
       "level": 0
     },
     {
@@ -68,7 +68,7 @@
       "rank": 10,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 67,
+      "xp": 68,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T06:22:15.956995",
+  "last_updated": "2025-11-21T06:24:19.729783",
   "total_users": 20
 }
