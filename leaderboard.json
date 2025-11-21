@@ -19,7 +19,7 @@
       "rank": 3,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 438,
+      "xp": 439,
       "level": 4
     },
     {
@@ -66,15 +66,15 @@
     },
     {
       "rank": 10,
-      "user_id": 5011504291,
-      "username": "@web3legend001",
-      "xp": 70,
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
+      "xp": 71,
       "level": 0
     },
     {
       "rank": 11,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
+      "user_id": 5011504291,
+      "username": "@web3legend001",
       "xp": 70,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T11:41:29.722214",
+  "last_updated": "2025-11-21T11:43:32.809591",
   "total_users": 20
 }
