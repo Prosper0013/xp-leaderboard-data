@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 74,
+      "xp": 76,
       "level": 0
     },
     {
@@ -75,7 +75,7 @@
       "rank": 11,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
-      "xp": 64,
+      "xp": 66,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-21T09:19:28.958498",
+  "last_updated": "2025-11-21T09:21:32.234541",
   "total_users": 20
 }
