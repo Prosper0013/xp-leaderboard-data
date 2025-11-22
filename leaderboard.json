@@ -68,8 +68,8 @@
       "rank": 10,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 98,
-      "level": 0
+      "xp": 100,
+      "level": 1
     },
     {
       "rank": 11,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-22T03:29:10.280432",
+  "last_updated": "2025-11-22T03:31:14.003565",
   "total_users": 20
 }
