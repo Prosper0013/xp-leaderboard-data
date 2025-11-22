@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 1312,
+      "xp": 1314,
       "level": 13
     },
     {
@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 5788946498,
       "username": "@DevilleSui",
-      "xp": 541,
+      "xp": 544,
       "level": 5
     },
     {
@@ -47,7 +47,7 @@
       "rank": 7,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 245,
+      "xp": 247,
       "level": 2
     },
     {
@@ -68,7 +68,7 @@
       "rank": 10,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
-      "xp": 149,
+      "xp": 151,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-22T16:57:07.082832",
+  "last_updated": "2025-11-22T16:59:10.027378",
   "total_users": 20
 }
