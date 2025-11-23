@@ -10,15 +10,15 @@
     },
     {
       "rank": 2,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
-      "xp": 2,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 3,
       "level": 0
     },
     {
       "rank": 3,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-23T16:42:49.246240",
+  "last_updated": "2025-11-23T16:44:52.830464",
   "total_users": 20
 }
