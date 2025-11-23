@@ -122,26 +122,26 @@
     },
     {
       "rank": 18,
+      "user_id": 1600706319,
+      "username": "@waseem_waseem",
+      "xp": 7,
+      "level": 0
+    },
+    {
+      "rank": 19,
       "user_id": 6775592627,
       "username": "@Jacesui",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 6585170847,
       "username": "@kamripamkaya",
       "xp": 5,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 6956801586,
-      "username": "@dfw_Bigmec",
-      "xp": 5,
-      "level": 0
     }
   ],
-  "last_updated": "2025-11-23T10:37:31.884914",
+  "last_updated": "2025-11-23T10:39:34.990482",
   "total_users": 20
 }
