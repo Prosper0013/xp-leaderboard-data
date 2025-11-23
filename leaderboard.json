@@ -10,50 +10,50 @@
     },
     {
       "rank": 2,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 3,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 3,
       "level": 0
     },
     {
-      "rank": 3,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
-      "xp": 2,
+      "rank": 4,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 1,
       "level": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 8,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-23T17:32:11.661573",
+  "last_updated": "2025-11-23T17:34:15.451077",
   "total_users": 20
 }
