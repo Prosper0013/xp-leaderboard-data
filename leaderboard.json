@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 1546,
+      "xp": 1550,
       "level": 15
     },
     {
@@ -40,14 +40,14 @@
       "rank": 6,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 468,
+      "xp": 471,
       "level": 4
     },
     {
       "rank": 7,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 404,
+      "xp": 408,
       "level": 4
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-23T05:58:14.099199",
+  "last_updated": "2025-11-23T06:00:16.782818",
   "total_users": 20
 }
