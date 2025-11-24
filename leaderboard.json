@@ -26,8 +26,8 @@
       "rank": 4,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 199,
-      "level": 1
+      "xp": 200,
+      "level": 2
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T13:22:44.318397",
+  "last_updated": "2025-11-24T13:24:48.460459",
   "total_users": 20
 }
