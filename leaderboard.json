@@ -33,69 +33,69 @@
       "rank": 5,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 92,
+      "xp": 93,
       "level": 0
     },
     {
       "rank": 6,
+      "user_id": 1575409237,
+      "username": "@WarrenBoswell",
+      "xp": 60,
+      "level": 0
+    },
+    {
+      "rank": 7,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
       "xp": 5,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 14,
-      "user_id": 1575409237,
-      "username": "@WarrenBoswell",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T04:50:58.369695",
+  "last_updated": "2025-11-24T04:53:02.291378",
   "total_users": 20
 }
