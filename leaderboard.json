@@ -10,23 +10,23 @@
     },
     {
       "rank": 2,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 198,
-      "level": 1
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 206,
+      "level": 2
     },
     {
       "rank": 3,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
-      "xp": 175,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 199,
       "level": 1
     },
     {
       "rank": 4,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 105,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 175,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T03:55:14.644893",
+  "last_updated": "2025-11-24T03:57:18.425239",
   "total_users": 20
 }
