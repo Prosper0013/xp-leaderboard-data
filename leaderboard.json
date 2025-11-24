@@ -33,7 +33,7 @@
       "rank": 5,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 121,
+      "xp": 122,
       "level": 1
     },
     {
@@ -47,7 +47,7 @@
       "rank": 7,
       "user_id": 6969979739,
       "username": "D",
-      "xp": 105,
+      "xp": 107,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T08:23:32.446134",
+  "last_updated": "2025-11-24T08:25:36.038374",
   "total_users": 20
 }
