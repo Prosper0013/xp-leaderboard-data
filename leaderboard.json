@@ -52,96 +52,96 @@
     },
     {
       "rank": 8,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 9,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 1600706319,
       "username": "@waseem_waseem",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 5011504291,
       "username": "@web3legend001",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 5227839502,
       "username": "@mrpdevlord",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 6013331358,
       "username": "@PrimeUz3",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 6095067237,
       "username": "@itsavacrypto",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 6279291728,
-      "username": "@theweb3ray",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2025-11-24T01:38:58.033966",
+  "last_updated": "2025-11-24T01:41:02.015030",
   "total_users": 20
 }
