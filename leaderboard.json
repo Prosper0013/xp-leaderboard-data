@@ -38,64 +38,64 @@
     },
     {
       "rank": 6,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 7,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 1600706319,
       "username": "@waseem_waseem",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 5011504291,
       "username": "@web3legend001",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 5227839502,
       "username": "@mrpdevlord",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 14,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-23T20:40:05.262369",
+  "last_updated": "2025-11-23T20:42:08.998056",
   "total_users": 20
 }
