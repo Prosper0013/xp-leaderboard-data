@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 94,
+      "xp": 96,
       "level": 0
     },
     {
@@ -66,22 +66,22 @@
     },
     {
       "rank": 10,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 5,
+      "level": 0
+    },
+    {
+      "rank": 11,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 12,
-      "user_id": 7642527839,
-      "username": "RonnyR",
       "xp": 1,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T06:05:11.694590",
+  "last_updated": "2025-11-24T06:07:15.135970",
   "total_users": 20
 }
