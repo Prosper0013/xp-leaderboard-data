@@ -61,8 +61,8 @@
       "rank": 9,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
-      "xp": 99,
-      "level": 0
+      "xp": 100,
+      "level": 1
     },
     {
       "rank": 10,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T15:59:19.168575",
+  "last_updated": "2025-11-24T16:01:22.792618",
   "total_users": 20
 }
