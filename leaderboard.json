@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 133,
+      "xp": 134,
       "level": 1
     },
     {
@@ -89,7 +89,7 @@
       "rank": 13,
       "user_id": 6467610259,
       "username": "@Emmysui",
-      "xp": 13,
+      "xp": 14,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T14:47:11.806795",
+  "last_updated": "2025-11-24T14:49:15.138921",
   "total_users": 20
 }
