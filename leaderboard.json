@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 228,
+      "xp": 230,
       "level": 2
     },
     {
@@ -82,14 +82,14 @@
       "rank": 12,
       "user_id": 6467610259,
       "username": "@Emmysui",
-      "xp": 23,
+      "xp": 24,
       "level": 0
     },
     {
       "rank": 13,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 18,
+      "xp": 20,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T15:30:27.328831",
+  "last_updated": "2025-11-24T15:32:30.406481",
   "total_users": 20
 }
