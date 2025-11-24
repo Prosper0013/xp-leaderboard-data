@@ -59,15 +59,15 @@
     },
     {
       "rank": 9,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 5,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 6,
       "level": 0
     },
     {
       "rank": 10,
-      "user_id": 7642527839,
-      "username": "RonnyR",
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
       "xp": 5,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T06:09:18.855563",
+  "last_updated": "2025-11-24T06:11:22.789279",
   "total_users": 20
 }
