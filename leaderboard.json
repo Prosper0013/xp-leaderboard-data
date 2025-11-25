@@ -108,15 +108,15 @@
     },
     {
       "rank": 16,
-      "user_id": 5011504291,
-      "username": "@web3legend001",
-      "xp": 2,
+      "user_id": 7908027668,
+      "username": "@RexSlays",
+      "xp": 3,
       "level": 0
     },
     {
       "rank": 17,
-      "user_id": 7908027668,
-      "username": "@RexSlays",
+      "user_id": 5011504291,
+      "username": "@web3legend001",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-25T13:23:52.718521",
+  "last_updated": "2025-11-25T13:25:58.090036",
   "total_users": 20
 }
