@@ -24,16 +24,16 @@
     },
     {
       "rank": 4,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 257,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 294,
       "level": 2
     },
     {
       "rank": 5,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 213,
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 257,
       "level": 2
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-24T23:46:41.237115",
+  "last_updated": "2025-11-24T23:48:44.837374",
   "total_users": 20
 }
