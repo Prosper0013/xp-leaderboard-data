@@ -80,16 +80,16 @@
     },
     {
       "rank": 12,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
-      "xp": 29,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 31,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 7642527839,
-      "username": "RonnyR",
-      "xp": 28,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 29,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-25T12:30:09.474909",
+  "last_updated": "2025-11-25T12:32:13.213521",
   "total_users": 20
 }
