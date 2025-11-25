@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 404,
+      "xp": 406,
       "level": 4
     },
     {
@@ -19,7 +19,7 @@
       "rank": 3,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 397,
+      "xp": 399,
       "level": 3
     },
     {
@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 252,
+      "xp": 253,
       "level": 2
     },
     {
@@ -110,7 +110,7 @@
       "rank": 16,
       "user_id": 7908027668,
       "username": "@RexSlays",
-      "xp": 3,
+      "xp": 5,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-25T13:32:11.594894",
+  "last_updated": "2025-11-25T13:34:16.321305",
   "total_users": 20
 }
