@@ -3,23 +3,23 @@
   "leaderboard": [
     {
       "rank": 1,
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 400,
+      "level": 4
+    },
+    {
+      "rank": 2,
       "user_id": 7090548617,
       "username": "@Eddieshq",
       "xp": 396,
       "level": 3
     },
     {
-      "rank": 2,
+      "rank": 3,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
       "xp": 389,
-      "level": 3
-    },
-    {
-      "rank": 3,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 300,
       "level": 3
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-25T01:00:51.164720",
+  "last_updated": "2025-11-25T01:02:54.657267",
   "total_users": 20
 }
