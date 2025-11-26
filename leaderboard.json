@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 490,
+      "xp": 491,
       "level": 4
     },
     {
@@ -101,16 +101,16 @@
     },
     {
       "rank": 15,
-      "user_id": 6585170847,
-      "username": "@kamripamkaya",
-      "xp": 6,
+      "user_id": 7032939933,
+      "username": "@ronbachman",
+      "xp": 7,
       "level": 0
     },
     {
       "rank": 16,
-      "user_id": 7032939933,
-      "username": "@ronbachman",
-      "xp": 5,
+      "user_id": 6585170847,
+      "username": "@kamripamkaya",
+      "xp": 6,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-26T16:45:37.495769",
+  "last_updated": "2025-11-26T16:47:40.629597",
   "total_users": 20
 }
