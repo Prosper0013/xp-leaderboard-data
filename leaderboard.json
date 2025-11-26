@@ -24,79 +24,79 @@
     },
     {
       "rank": 4,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 474,
+      "level": 4
+    },
+    {
+      "rank": 5,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
       "xp": 405,
       "level": 4
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
       "xp": 396,
       "level": 3
     },
     {
-      "rank": 6,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 372,
+      "rank": 7,
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
+      "xp": 306,
       "level": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
       "xp": 293,
       "level": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 224,
       "level": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 6969979739,
       "username": "D",
       "xp": 213,
       "level": 2
     },
     {
-      "rank": 10,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 203,
-      "level": 2
+      "rank": 11,
+      "user_id": 5923072276,
+      "username": "@Yessir_96",
+      "xp": 74,
+      "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
       "xp": 60,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 6467610259,
       "username": "@Emmysui",
       "xp": 46,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 40,
-      "level": 0
-    },
-    {
-      "rank": 14,
-      "user_id": 5923072276,
-      "username": "@Yessir_96",
-      "xp": 14,
+      "xp": 41,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-26T05:46:00.848839",
+  "last_updated": "2025-11-26T05:48:07.918415",
   "total_users": 20
 }
