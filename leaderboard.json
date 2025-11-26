@@ -45,31 +45,31 @@
     },
     {
       "rank": 7,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 293,
+      "level": 2
+    },
+    {
+      "rank": 8,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 224,
       "level": 2
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 6969979739,
       "username": "D",
       "xp": 213,
       "level": 2
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
       "xp": 203,
       "level": 2
-    },
-    {
-      "rank": 10,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 193,
-      "level": 1
     },
     {
       "rank": 11,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-26T00:48:36.592470",
+  "last_updated": "2025-11-26T00:50:40.037909",
   "total_users": 20
 }
