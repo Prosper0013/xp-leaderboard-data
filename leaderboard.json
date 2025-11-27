@@ -31,16 +31,16 @@
     },
     {
       "rank": 5,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 405,
-      "level": 4
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 501,
+      "level": 5
     },
     {
       "rank": 6,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 401,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 405,
       "level": 4
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-27T03:28:38.247194",
+  "last_updated": "2025-11-27T03:30:42.293826",
   "total_users": 20
 }
