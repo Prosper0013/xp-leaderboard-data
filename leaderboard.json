@@ -122,26 +122,26 @@
     },
     {
       "rank": 18,
+      "user_id": 1575936630,
+      "username": "@ProfessorPepeXCalls",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 19,
       "user_id": 5011504291,
       "username": "@web3legend001",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 7772016701,
       "username": "@brandon0777",
       "xp": 2,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 100294326,
-      "username": "@xXCHNGx",
-      "xp": 1,
-      "level": 0
     }
   ],
-  "last_updated": "2025-11-27T11:02:16.234782",
+  "last_updated": "2025-11-27T11:04:19.953970",
   "total_users": 20
 }
