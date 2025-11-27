@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 1575409237,
-      "username": "@WarrenBoswell",
-      "xp": 60,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 61,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
+      "user_id": 1575409237,
+      "username": "@WarrenBoswell",
       "xp": 60,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-27T16:04:41.075430",
+  "last_updated": "2025-11-27T16:06:44.565008",
   "total_users": 20
 }
