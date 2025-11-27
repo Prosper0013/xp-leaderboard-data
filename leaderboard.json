@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 941,
+      "xp": 945,
       "level": 9
     },
     {
@@ -115,16 +115,16 @@
     },
     {
       "rank": 17,
-      "user_id": 7908027668,
-      "username": "@RexSlays",
+      "user_id": 1575936630,
+      "username": "@ProfessorPepeXCalls",
       "xp": 5,
       "level": 0
     },
     {
       "rank": 18,
-      "user_id": 1575936630,
-      "username": "@ProfessorPepeXCalls",
-      "xp": 3,
+      "user_id": 7908027668,
+      "username": "@RexSlays",
+      "xp": 5,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-27T16:19:05.782987",
+  "last_updated": "2025-11-27T16:21:09.390077",
   "total_users": 20
 }
