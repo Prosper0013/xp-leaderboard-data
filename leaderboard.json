@@ -19,7 +19,7 @@
       "rank": 3,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 704,
+      "xp": 705,
       "level": 7
     },
     {
@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 405,
+      "xp": 407,
       "level": 4
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-27T14:07:27.486617",
+  "last_updated": "2025-11-27T14:09:31.029703",
   "total_users": 20
 }
