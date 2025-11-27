@@ -17,16 +17,16 @@
     },
     {
       "rank": 3,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 617,
-      "level": 6
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 702,
+      "level": 7
     },
     {
       "rank": 4,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 601,
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
+      "xp": 617,
       "level": 6
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-27T08:07:10.338308",
+  "last_updated": "2025-11-27T08:09:13.501392",
   "total_users": 20
 }
