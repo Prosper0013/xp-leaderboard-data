@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 696,
+      "xp": 697,
       "level": 6
     },
     {
@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
-      "xp": 407,
+      "xp": 408,
       "level": 4
     },
     {
@@ -89,7 +89,7 @@
       "rank": 13,
       "user_id": 6467610259,
       "username": "@Emmysui",
-      "xp": 68,
+      "xp": 69,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-28T11:50:04.239521",
+  "last_updated": "2025-11-28T11:52:08.033942",
   "total_users": 20
 }
