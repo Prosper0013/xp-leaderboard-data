@@ -129,19 +129,19 @@
     },
     {
       "rank": 19,
-      "user_id": 7908027668,
-      "username": "@RexSlays",
+      "user_id": 7047692232,
+      "username": "@sarapineiro",
       "xp": 5,
       "level": 0
     },
     {
       "rank": 20,
-      "user_id": 7047692232,
-      "username": "@sarapineiro",
-      "xp": 4,
+      "user_id": 7908027668,
+      "username": "@RexSlays",
+      "xp": 5,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T15:52:33.079013",
+  "last_updated": "2025-11-29T15:54:36.359611",
   "total_users": 20
 }
