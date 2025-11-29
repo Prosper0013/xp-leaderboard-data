@@ -122,15 +122,15 @@
     },
     {
       "rank": 18,
-      "user_id": 1575936630,
-      "username": "@ProfessorPepeXCalls",
-      "xp": 5,
+      "user_id": 5552809462,
+      "username": "@SirMichael200",
+      "xp": 6,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 5552809462,
-      "username": "@SirMichael200",
+      "user_id": 1575936630,
+      "username": "@ProfessorPepeXCalls",
       "xp": 5,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T16:06:55.012379",
+  "last_updated": "2025-11-29T16:08:58.155644",
   "total_users": 20
 }
