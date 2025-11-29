@@ -26,8 +26,8 @@
       "rank": 4,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 998,
-      "level": 9
+      "xp": 1001,
+      "level": 10
     },
     {
       "rank": 5,
@@ -82,7 +82,7 @@
       "rank": 12,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 119,
+      "xp": 120,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T04:52:02.519918",
+  "last_updated": "2025-11-29T04:54:06.121669",
   "total_users": 20
 }
