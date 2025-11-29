@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 1251,
+      "xp": 1254,
       "level": 12
     },
     {
@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 1004,
+      "xp": 1006,
       "level": 10
     },
     {
@@ -73,16 +73,16 @@
     },
     {
       "rank": 11,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
-      "xp": 128,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 129,
       "level": 1
     },
     {
       "rank": 12,
-      "user_id": 7642527839,
-      "username": "RonnyR",
-      "xp": 127,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 128,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T16:58:12.112969",
+  "last_updated": "2025-11-29T17:00:15.383683",
   "total_users": 20
 }
