@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 1257,
+      "xp": 1258,
       "level": 12
     },
     {
@@ -129,19 +129,19 @@
     },
     {
       "rank": 19,
-      "user_id": 1575936630,
-      "username": "@ProfessorPepeXCalls",
-      "xp": 5,
+      "user_id": 7047692232,
+      "username": "@sarapineiro",
+      "xp": 6,
       "level": 0
     },
     {
       "rank": 20,
-      "user_id": 7047692232,
-      "username": "@sarapineiro",
+      "user_id": 1575936630,
+      "username": "@ProfessorPepeXCalls",
       "xp": 5,
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T17:16:40.253377",
+  "last_updated": "2025-11-29T17:18:43.152239",
   "total_users": 20
 }
