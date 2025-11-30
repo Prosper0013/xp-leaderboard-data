@@ -122,15 +122,15 @@
     },
     {
       "rank": 18,
-      "user_id": 6585170847,
-      "username": "@kamripamkaya",
-      "xp": 7,
+      "user_id": 7047692232,
+      "username": "@sarapineiro",
+      "xp": 9,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 7047692232,
-      "username": "@sarapineiro",
+      "user_id": 6585170847,
+      "username": "@kamripamkaya",
       "xp": 7,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-29T20:06:52.942906",
+  "last_updated": "2025-11-29T20:08:55.789429",
   "total_users": 20
 }
