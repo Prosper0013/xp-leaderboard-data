@@ -17,15 +17,15 @@
     },
     {
       "rank": 3,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
-      "xp": 2,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 4,
       "level": 0
     },
     {
       "rank": 4,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
+      "user_id": 6476061153,
+      "username": "@cromaxx",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-30T17:56:55.956373",
+  "last_updated": "2025-11-30T17:58:59.401320",
   "total_users": 20
 }
