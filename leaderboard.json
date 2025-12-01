@@ -38,15 +38,15 @@
     },
     {
       "rank": 6,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 100,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 101,
       "level": 1
     },
     {
       "rank": 7,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
       "xp": 100,
       "level": 1
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-01T11:18:17.306437",
+  "last_updated": "2025-12-01T11:20:21.177585",
   "total_users": 20
 }
