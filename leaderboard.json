@@ -38,16 +38,16 @@
     },
     {
       "rank": 6,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
       "xp": 6,
       "level": 0
     },
     {
       "rank": 7,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 5,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 6,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-01T03:04:45.078780",
+  "last_updated": "2025-12-01T03:06:48.988560",
   "total_users": 20
 }
