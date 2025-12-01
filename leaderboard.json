@@ -3,23 +3,23 @@
   "leaderboard": [
     {
       "rank": 1,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 7,
-      "level": 0
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 179,
+      "level": 1
     },
     {
       "rank": 2,
-      "user_id": 7642527839,
-      "username": "RonnyR",
-      "xp": 7,
-      "level": 0
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 107,
+      "level": 1
     },
     {
       "rank": 3,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
-      "xp": 4,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 57,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-11-30T17:58:59.401320",
+  "last_updated": "2025-11-30T18:01:03.295145",
   "total_users": 20
 }
