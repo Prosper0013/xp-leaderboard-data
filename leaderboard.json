@@ -80,16 +80,16 @@
     },
     {
       "rank": 12,
-      "user_id": 7032939933,
-      "username": "@ronbachman",
+      "user_id": 5026820734,
+      "username": "@tidus1986",
       "xp": 4,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 5026820734,
-      "username": "@tidus1986",
-      "xp": 3,
+      "user_id": 7032939933,
+      "username": "@ronbachman",
+      "xp": 4,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-01T16:56:11.351574",
+  "last_updated": "2025-12-01T16:58:14.948369",
   "total_users": 20
 }
