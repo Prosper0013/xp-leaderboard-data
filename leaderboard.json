@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 5026820734,
-      "username": "@tidus1986",
-      "xp": 4,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 5,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
+      "user_id": 5026820734,
+      "username": "@tidus1986",
       "xp": 4,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-02T08:38:19.660846",
+  "last_updated": "2025-12-02T08:40:25.429911",
   "total_users": 20
 }
