@@ -101,36 +101,36 @@
     },
     {
       "rank": 15,
+      "user_id": 5923072276,
+      "username": "@Yessir_96",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 7207325031,
       "username": "@onaolapo0010",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7952899375,
       "username": "@flyincrypto77",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 1583661166,
       "username": "@Pluto_Defi",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 5552809462,
       "username": "@SirMichael200",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 19,
-      "user_id": 5923072276,
-      "username": "@Yessir_96",
       "xp": 1,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-02T13:51:20.391303",
+  "last_updated": "2025-12-02T13:53:24.061755",
   "total_users": 20
 }
