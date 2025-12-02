@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 266,
+      "xp": 268,
       "level": 2
     },
     {
@@ -47,7 +47,7 @@
       "rank": 7,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 167,
+      "xp": 169,
       "level": 1
     },
     {
@@ -108,30 +108,30 @@
     },
     {
       "rank": 16,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 17,
       "user_id": 5923072276,
       "username": "@Yessir_96",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 7207325031,
       "username": "@onaolapo0010",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 7952899375,
       "username": "@flyincrypto77",
       "xp": 2,
-      "level": 0
-    },
-    {
-      "rank": 19,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 1,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-02T17:38:45.749564",
+  "last_updated": "2025-12-02T17:40:49.374140",
   "total_users": 20
 }
