@@ -24,17 +24,17 @@
     },
     {
       "rank": 4,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 300,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 368,
       "level": 3
     },
     {
       "rank": 5,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 268,
-      "level": 2
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 300,
+      "level": 3
     },
     {
       "rank": 6,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-02T23:25:41.856262",
+  "last_updated": "2025-12-02T23:27:45.494581",
   "total_users": 20
 }
