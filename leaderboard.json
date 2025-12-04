@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 951,
+      "xp": 953,
       "level": 9
     },
     {
@@ -87,15 +87,15 @@
     },
     {
       "rank": 13,
-      "user_id": 5026820734,
-      "username": "@tidus1986",
-      "xp": 4,
+      "user_id": 5923072276,
+      "username": "@Yessir_96",
+      "xp": 5,
       "level": 0
     },
     {
       "rank": 14,
-      "user_id": 5923072276,
-      "username": "@Yessir_96",
+      "user_id": 5026820734,
+      "username": "@tidus1986",
       "xp": 4,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-04T11:19:51.501032",
+  "last_updated": "2025-12-04T11:21:55.102134",
   "total_users": 20
 }
