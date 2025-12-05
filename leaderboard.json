@@ -115,15 +115,15 @@
     },
     {
       "rank": 17,
-      "user_id": 5026820734,
-      "username": "@tidus1986",
-      "xp": 4,
+      "user_id": 7047692232,
+      "username": "@Steve_TM",
+      "xp": 5,
       "level": 0
     },
     {
       "rank": 18,
-      "user_id": 7047692232,
-      "username": "@Steve_TM",
+      "user_id": 5026820734,
+      "username": "@tidus1986",
       "xp": 4,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-05T13:51:38.830347",
+  "last_updated": "2025-12-05T13:53:42.405226",
   "total_users": 20
 }
