@@ -108,15 +108,15 @@
     },
     {
       "rank": 16,
-      "user_id": 5026820734,
-      "username": "@tidus1986",
-      "xp": 4,
+      "user_id": 6585170847,
+      "username": "@kamripamkaya",
+      "xp": 5,
       "level": 0
     },
     {
       "rank": 17,
-      "user_id": 6585170847,
-      "username": "@kamripamkaya",
+      "user_id": 5026820734,
+      "username": "@tidus1986",
       "xp": 4,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-05T13:33:04.811367",
+  "last_updated": "2025-12-05T13:35:08.405879",
   "total_users": 20
 }
