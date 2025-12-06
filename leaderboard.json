@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 673,
+      "xp": 676,
       "level": 6
     },
     {
@@ -54,7 +54,7 @@
       "rank": 8,
       "user_id": 5788946498,
       "username": "@DevilleSui",
-      "xp": 407,
+      "xp": 409,
       "level": 4
     },
     {
@@ -75,7 +75,7 @@
       "rank": 11,
       "user_id": 6476061153,
       "username": "@cromaxx",
-      "xp": 37,
+      "xp": 38,
       "level": 0
     },
     {
@@ -129,19 +129,19 @@
     },
     {
       "rank": 19,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 2,
+      "user_id": 7060763913,
+      "username": "@Loki_TheJOKER",
+      "xp": 3,
       "level": 0
     },
     {
       "rank": 20,
-      "user_id": 6748157249,
-      "username": "@sexyemmy58",
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
       "xp": 2,
       "level": 0
     }
   ],
-  "last_updated": "2025-12-06T11:07:51.255147",
+  "last_updated": "2025-12-06T11:09:54.414276",
   "total_users": 20
 }
