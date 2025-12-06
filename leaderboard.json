@@ -17,17 +17,17 @@
     },
     {
       "rank": 3,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 800,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 805,
       "level": 8
     },
     {
       "rank": 4,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 705,
-      "level": 7
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 800,
+      "level": 8
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-06T05:51:20.730393",
+  "last_updated": "2025-12-06T05:53:24.418523",
   "total_users": 20
 }
