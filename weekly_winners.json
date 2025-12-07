@@ -1,6 +1,6 @@
 {
   "success": true,
-  "week_start_date": "2025-11-30",
+  "week_start_date": "2025-12-07",
   "winners": [
     {
       "rank": 1,
@@ -8,90 +8,90 @@
       "username": "Eddieshq",
       "first_name": "Eddies",
       "display_name": "@Eddieshq",
-      "xp": 1502,
-      "level": 15
-    },
-    {
-      "rank": 2,
-      "user_id": 7105730933,
-      "username": "abiclighter",
-      "first_name": "J.D.L",
-      "display_name": "@abiclighter",
-      "xp": 1461,
+      "xp": 1462,
       "level": 14
     },
     {
-      "rank": 3,
+      "rank": 2,
       "user_id": 1638084297,
       "username": "IceFlurryX",
       "first_name": "ICEFLURRYX",
       "display_name": "@IceFlurryX",
-      "xp": 1261,
-      "level": 12
+      "xp": 1333,
+      "level": 13
     },
     {
-      "rank": 4,
-      "user_id": 5526266767,
-      "username": "mr_nero_art",
-      "first_name": "NERO ART \ud83c\udfa8",
-      "display_name": "@mr_nero_art",
-      "xp": 1161,
-      "level": 11
-    },
-    {
-      "rank": 5,
-      "user_id": 5594697253,
-      "username": "Sir_sharpzy",
-      "first_name": "James",
-      "display_name": "@Sir_sharpzy",
-      "xp": 934,
-      "level": 9
-    },
-    {
-      "rank": 6,
-      "user_id": 7453970543,
-      "username": "LeurieFTW",
-      "first_name": "Kevin",
-      "display_name": "@LeurieFTW",
-      "xp": 900,
-      "level": 9
-    },
-    {
-      "rank": 7,
+      "rank": 3,
       "user_id": 5357785251,
       "username": "milfhunter4888",
       "first_name": "milfhunter",
       "display_name": "@milfhunter4888",
-      "xp": 895,
+      "xp": 905,
+      "level": 9
+    },
+    {
+      "rank": 4,
+      "user_id": 7453970543,
+      "username": "LeurieFTW",
+      "first_name": "Kevin",
+      "display_name": "@LeurieFTW",
+      "xp": 903,
+      "level": 9
+    },
+    {
+      "rank": 5,
+      "user_id": 7105730933,
+      "username": "abiclighter",
+      "first_name": "J.D.L",
+      "display_name": "@abiclighter",
+      "xp": 801,
       "level": 8
     },
     {
-      "rank": 8,
-      "user_id": 6969979739,
-      "username": "",
-      "first_name": "D",
-      "display_name": "D",
-      "xp": 602,
-      "level": 6
+      "rank": 6,
+      "user_id": 5594697253,
+      "username": "Sir_sharpzy",
+      "first_name": "James",
+      "display_name": "@Sir_sharpzy",
+      "xp": 761,
+      "level": 7
     },
     {
-      "rank": 9,
-      "user_id": 1583661166,
-      "username": "Pluto_Defi",
-      "first_name": "Pluto_Defi",
-      "display_name": "@Pluto_Defi",
-      "xp": 471,
+      "rank": 7,
+      "user_id": 5526266767,
+      "username": "mr_nero_art",
+      "first_name": "NERO ART \ud83c\udfa8",
+      "display_name": "@mr_nero_art",
+      "xp": 478,
       "level": 4
     },
     {
-      "rank": 10,
+      "rank": 8,
       "user_id": 5788946498,
       "username": "DevilleSui",
       "first_name": "Deville",
       "display_name": "@DevilleSui",
-      "xp": 290,
+      "xp": 410,
+      "level": 4
+    },
+    {
+      "rank": 9,
+      "user_id": 6969979739,
+      "username": "",
+      "first_name": "D",
+      "display_name": "D",
+      "xp": 354,
+      "level": 3
+    },
+    {
+      "rank": 10,
+      "user_id": 7642527839,
+      "username": "",
+      "first_name": "RonnyR",
+      "display_name": "RonnyR",
+      "xp": 272,
       "level": 2
     }
   ],
-  "last_updated": "2025-11-30T16:00:05.992971"
+  "last_updated": "2025-12-07T16:00:08.211515"
 }
