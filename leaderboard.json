@@ -101,22 +101,22 @@
     },
     {
       "rank": 15,
+      "user_id": 6585170847,
+      "username": "@kamripamkaya",
+      "xp": 6,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 7047692232,
       "username": "@Steve_TM",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 5552809462,
       "username": "@SirMichael200",
-      "xp": 5,
-      "level": 0
-    },
-    {
-      "rank": 17,
-      "user_id": 6585170847,
-      "username": "@kamripamkaya",
       "xp": 5,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-07T10:36:41.258964",
+  "last_updated": "2025-12-07T10:38:45.106040",
   "total_users": 20
 }
