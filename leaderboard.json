@@ -45,71 +45,71 @@
     },
     {
       "rank": 7,
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 8,
       "user_id": 2073442744,
       "username": "@crypstar1",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 722862881,
       "username": "@ahmdsaupi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 1022187139,
       "username": "@Heyb3o",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 1575936630,
       "username": "@ProfessorPepeXCalls",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 16,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-08T04:51:28.668215",
+  "last_updated": "2025-12-08T04:53:32.443064",
   "total_users": 20
 }
