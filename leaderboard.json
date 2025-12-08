@@ -12,14 +12,14 @@
       "rank": 2,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 241,
+      "xp": 243,
       "level": 2
     },
     {
       "rank": 3,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 159,
+      "xp": 161,
       "level": 1
     },
     {
@@ -47,7 +47,7 @@
       "rank": 7,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 5,
+      "xp": 7,
       "level": 0
     },
     {
@@ -80,68 +80,68 @@
     },
     {
       "rank": 12,
+      "user_id": 7532240217,
+      "username": "@Dcreative9",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 13,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 722862881,
       "username": "@ahmdsaupi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 1022187139,
       "username": "@Heyb3o",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 1575409237,
       "username": "@WarrenBoswell",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 1575936630,
       "username": "@ProfessorPepeXCalls",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 1600706319,
       "username": "@waseem_waseem",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 5011504291,
-      "username": "@web3legend001",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2025-12-08T10:58:41.374048",
+  "last_updated": "2025-12-08T11:00:44.967695",
   "total_users": 20
 }
