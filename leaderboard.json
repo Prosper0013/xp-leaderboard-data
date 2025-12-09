@@ -38,15 +38,15 @@
     },
     {
       "rank": 6,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 89,
+      "user_id": 7986161719,
+      "username": "@rajjimikela",
+      "xp": 90,
       "level": 0
     },
     {
       "rank": 7,
-      "user_id": 7986161719,
-      "username": "@rajjimikela",
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
       "xp": 89,
       "level": 0
     },
@@ -54,7 +54,7 @@
       "rank": 8,
       "user_id": 7850665682,
       "username": "Ranjib Muhadenjifir",
-      "xp": 51,
+      "xp": 52,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-08T19:31:51.772987",
+  "last_updated": "2025-12-08T19:33:55.640542",
   "total_users": 20
 }
