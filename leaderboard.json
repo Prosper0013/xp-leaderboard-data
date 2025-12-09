@@ -19,7 +19,7 @@
       "rank": 3,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 359,
+      "xp": 360,
       "level": 3
     },
     {
@@ -94,15 +94,15 @@
     },
     {
       "rank": 14,
-      "user_id": 1583661166,
-      "username": "@Pluto_Defi",
-      "xp": 2,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 3,
       "level": 0
     },
     {
       "rank": 15,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 1583661166,
+      "username": "@Pluto_Defi",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T10:59:49.709300",
+  "last_updated": "2025-12-09T11:01:53.559165",
   "total_users": 20
 }
