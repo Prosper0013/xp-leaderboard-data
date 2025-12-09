@@ -47,14 +47,14 @@
       "rank": 7,
       "user_id": 7986161719,
       "username": "@rajjimikela",
-      "xp": 87,
+      "xp": 89,
       "level": 0
     },
     {
       "rank": 8,
       "user_id": 7850665682,
       "username": "Ranjib Muhadenjifir",
-      "xp": 49,
+      "xp": 51,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-08T19:29:48.135048",
+  "last_updated": "2025-12-08T19:31:51.772987",
   "total_users": 20
 }
