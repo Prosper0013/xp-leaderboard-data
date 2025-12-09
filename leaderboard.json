@@ -101,16 +101,16 @@
     },
     {
       "rank": 15,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 3,
       "level": 0
     },
     {
       "rank": 16,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 2,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T13:22:17.959440",
+  "last_updated": "2025-12-09T13:24:22.768542",
   "total_users": 20
 }
