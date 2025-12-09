@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 226,
+      "xp": 227,
       "level": 2
     },
     {
@@ -47,21 +47,21 @@
       "rank": 7,
       "user_id": 7986161719,
       "username": "@rajjimikela",
-      "xp": 81,
+      "xp": 85,
       "level": 0
     },
     {
       "rank": 8,
       "user_id": 7850665682,
       "username": "Ranjib Muhadenjifir",
-      "xp": 44,
+      "xp": 47,
       "level": 0
     },
     {
       "rank": 9,
       "user_id": 6812523137,
-      "username": "@deepaksingh771",
-      "xp": 22,
+      "username": "@trek50iw",
+      "xp": 23,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-08T19:23:37.553538",
+  "last_updated": "2025-12-08T19:25:41.249528",
   "total_users": 20
 }
