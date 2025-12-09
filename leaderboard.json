@@ -108,15 +108,15 @@
     },
     {
       "rank": 16,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 4,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 5,
       "level": 0
     },
     {
       "rank": 17,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 4,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T15:03:24.804327",
+  "last_updated": "2025-12-09T15:05:27.993897",
   "total_users": 20
 }
