@@ -12,22 +12,22 @@
       "rank": 2,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 410,
+      "xp": 460,
       "level": 4
     },
     {
       "rank": 3,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 400,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 410,
       "level": 4
     },
     {
       "rank": 4,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 335,
-      "level": 3
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 400,
+      "level": 4
     },
     {
       "rank": 5,
@@ -38,17 +38,17 @@
     },
     {
       "rank": 6,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 187,
+      "user_id": 7986161719,
+      "username": "@rajjimikela",
+      "xp": 192,
       "level": 1
     },
     {
       "rank": 7,
-      "user_id": 7986161719,
-      "username": "@rajjimikela",
-      "xp": 92,
-      "level": 0
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
+      "xp": 187,
+      "level": 1
     },
     {
       "rank": 8,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T17:58:33.973291",
+  "last_updated": "2025-12-09T18:00:37.355397",
   "total_users": 20
 }
