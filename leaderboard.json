@@ -101,29 +101,29 @@
     },
     {
       "rank": 15,
+      "user_id": 7701854109,
+      "username": "@mr_agad",
+      "xp": 8,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 6324449836,
       "username": "@yasir_nasi5",
       "xp": 7,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 6467610259,
       "username": "@Emmysui",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 6433931020,
       "username": "@sweatybollocks",
-      "xp": 5,
-      "level": 0
-    },
-    {
-      "rank": 18,
-      "user_id": 7701854109,
-      "username": "@mr_agad",
       "xp": 5,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T18:27:26.030745",
+  "last_updated": "2025-12-09T18:29:29.176464",
   "total_users": 20
 }
