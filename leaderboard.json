@@ -87,15 +87,15 @@
     },
     {
       "rank": 13,
-      "user_id": 6812523137,
-      "username": "@trek50iw",
-      "xp": 26,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 27,
       "level": 0
     },
     {
       "rank": 14,
-      "user_id": 7642527839,
-      "username": "RonnyR",
+      "user_id": 6812523137,
+      "username": "@trek50iw",
       "xp": 26,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-10T16:53:16.821959",
+  "last_updated": "2025-12-10T16:55:20.670524",
   "total_users": 20
 }
