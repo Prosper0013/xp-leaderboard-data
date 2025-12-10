@@ -122,16 +122,16 @@
     },
     {
       "rank": 18,
-      "user_id": 6433931020,
-      "username": "@sweatybollocks",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 5,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 4,
+      "user_id": 6433931020,
+      "username": "@sweatybollocks",
+      "xp": 5,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-09T20:04:21.459874",
+  "last_updated": "2025-12-09T20:06:24.725544",
   "total_users": 20
 }
