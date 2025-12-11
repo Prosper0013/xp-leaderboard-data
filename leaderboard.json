@@ -108,16 +108,16 @@
     },
     {
       "rank": 16,
-      "user_id": 2073442744,
-      "username": "@crypstar1",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 15,
       "level": 0
     },
     {
       "rank": 17,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 14,
+      "user_id": 2073442744,
+      "username": "@crypstar1",
+      "xp": 15,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-11T07:03:54.686625",
+  "last_updated": "2025-12-11T07:05:58.117738",
   "total_users": 20
 }
