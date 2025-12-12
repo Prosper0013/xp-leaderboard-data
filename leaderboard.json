@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 1143,
+      "xp": 1144,
       "level": 11
     },
     {
@@ -75,7 +75,7 @@
       "rank": 11,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 92,
+      "xp": 93,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-12T16:01:21.935097",
+  "last_updated": "2025-12-12T16:03:25.225513",
   "total_users": 20
 }
