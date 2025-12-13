@@ -101,16 +101,16 @@
     },
     {
       "rank": 15,
-      "user_id": 6812523137,
-      "username": "@trek50iw",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 26,
       "level": 0
     },
     {
       "rank": 16,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 25,
+      "user_id": 6812523137,
+      "username": "@trek50iw",
+      "xp": 26,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-13T07:07:18.602401",
+  "last_updated": "2025-12-13T07:09:21.607857",
   "total_users": 20
 }
