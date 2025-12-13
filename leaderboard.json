@@ -33,7 +33,7 @@
       "rank": 5,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 657,
+      "xp": 658,
       "level": 6
     },
     {
@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 5788946498,
-      "username": "@DevilleSui",
-      "xp": 64,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 65,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 6969979739,
-      "username": "D",
+      "user_id": 5788946498,
+      "username": "@DevilleSui",
       "xp": 64,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-13T11:46:25.100346",
+  "last_updated": "2025-12-13T11:48:28.408781",
   "total_users": 20
 }
