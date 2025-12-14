@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 7759088610,
       "username": "@SYsmartAdogu",
-      "xp": 623,
+      "xp": 624,
       "level": 6
     },
     {
@@ -82,7 +82,7 @@
       "rank": 12,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 96,
+      "xp": 97,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-13T18:01:59.924556",
+  "last_updated": "2025-12-13T18:04:03.773848",
   "total_users": 20
 }
