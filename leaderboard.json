@@ -12,7 +12,7 @@
       "rank": 2,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 1335,
+      "xp": 1336,
       "level": 13
     },
     {
@@ -33,15 +33,15 @@
       "rank": 5,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 677,
-      "level": 6
+      "xp": 779,
+      "level": 7
     },
     {
       "rank": 6,
       "user_id": 7759088610,
       "username": "@SYsmartAdogu",
-      "xp": 573,
-      "level": 5
+      "xp": 623,
+      "level": 6
     },
     {
       "rank": 7,
@@ -73,37 +73,37 @@
     },
     {
       "rank": 11,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 109,
+      "level": 1
+    },
+    {
+      "rank": 12,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 96,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 6969979739,
       "username": "D",
       "xp": 68,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 64,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 7850665682,
       "username": "Ranjib Muhadenjifir",
       "xp": 53,
-      "level": 0
-    },
-    {
-      "rank": 15,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 34,
       "level": 0
     },
     {
@@ -131,7 +131,7 @@
       "rank": 19,
       "user_id": 7032939933,
       "username": "@ronbachman",
-      "xp": 10,
+      "xp": 12,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-13T17:59:57.104282",
+  "last_updated": "2025-12-13T18:01:59.924556",
   "total_users": 20
 }
