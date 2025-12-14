@@ -1,6 +1,6 @@
 {
   "success": true,
-  "week_start_date": "2025-12-07",
+  "week_start_date": "2025-12-14",
   "winners": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "username": "Eddieshq",
       "first_name": "Eddies",
       "display_name": "@Eddieshq",
-      "xp": 1462,
+      "xp": 1454,
       "level": 14
     },
     {
@@ -17,8 +17,8 @@
       "username": "IceFlurryX",
       "first_name": "ICEFLURRYX",
       "display_name": "@IceFlurryX",
-      "xp": 1333,
-      "level": 13
+      "xp": 1441,
+      "level": 14
     },
     {
       "rank": 3,
@@ -26,7 +26,7 @@
       "username": "milfhunter4888",
       "first_name": "milfhunter",
       "display_name": "@milfhunter4888",
-      "xp": 905,
+      "xp": 902,
       "level": 9
     },
     {
@@ -35,7 +35,7 @@
       "username": "LeurieFTW",
       "first_name": "Kevin",
       "display_name": "@LeurieFTW",
-      "xp": 903,
+      "xp": 900,
       "level": 9
     },
     {
@@ -44,54 +44,54 @@
       "username": "abiclighter",
       "first_name": "J.D.L",
       "display_name": "@abiclighter",
-      "xp": 801,
+      "xp": 864,
       "level": 8
     },
     {
       "rank": 6,
-      "user_id": 5594697253,
-      "username": "Sir_sharpzy",
-      "first_name": "James",
-      "display_name": "@Sir_sharpzy",
-      "xp": 761,
+      "user_id": 7759088610,
+      "username": "SYsmartAdogu",
+      "first_name": "SY Smart",
+      "display_name": "@SYsmartAdogu",
+      "xp": 727,
       "level": 7
     },
     {
       "rank": 7,
-      "user_id": 5526266767,
-      "username": "mr_nero_art",
-      "first_name": "NERO ART \ud83c\udfa8",
-      "display_name": "@mr_nero_art",
-      "xp": 478,
-      "level": 4
+      "user_id": 6476061153,
+      "username": "cromaxx",
+      "first_name": "Croma manager",
+      "display_name": "@cromaxx",
+      "xp": 530,
+      "level": 5
     },
     {
       "rank": 8,
-      "user_id": 5788946498,
-      "username": "DevilleSui",
-      "first_name": "Deville",
-      "display_name": "@DevilleSui",
-      "xp": 410,
+      "user_id": 5594697253,
+      "username": "Sir_sharpzy",
+      "first_name": "James",
+      "display_name": "@Sir_sharpzy",
+      "xp": 417,
       "level": 4
     },
     {
       "rank": 9,
-      "user_id": 6969979739,
-      "username": "",
-      "first_name": "D",
-      "display_name": "D",
-      "xp": 354,
-      "level": 3
+      "user_id": 7986161719,
+      "username": "rajjimikela",
+      "first_name": "Amitabh Mukherjee",
+      "display_name": "@rajjimikela",
+      "xp": 192,
+      "level": 1
     },
     {
       "rank": 10,
-      "user_id": 7642527839,
-      "username": "",
-      "first_name": "RonnyR",
-      "display_name": "RonnyR",
-      "xp": 272,
-      "level": 2
+      "user_id": 100294326,
+      "username": "xXCHNGx",
+      "first_name": "XCHNG",
+      "display_name": "@xXCHNGx",
+      "xp": 184,
+      "level": 1
     }
   ],
-  "last_updated": "2025-12-07T16:00:08.211515"
+  "last_updated": "2025-12-14T16:00:08.172036"
 }
