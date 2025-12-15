@@ -73,16 +73,16 @@
     },
     {
       "rank": 11,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 3,
       "level": 0
     },
     {
       "rank": 12,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 2,
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-15T13:36:42.343586",
+  "last_updated": "2025-12-15T13:38:46.174000",
   "total_users": 20
 }
