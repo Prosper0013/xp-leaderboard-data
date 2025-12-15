@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 189,
+      "xp": 191,
       "level": 1
     },
     {
@@ -68,7 +68,7 @@
       "rank": 10,
       "user_id": 1604528787,
       "username": "@wizzyxx",
-      "xp": 18,
+      "xp": 20,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-15T08:30:54.512561",
+  "last_updated": "2025-12-15T08:32:58.974176",
   "total_users": 20
 }
