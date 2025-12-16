@@ -45,30 +45,30 @@
     },
     {
       "rank": 7,
+      "user_id": 7140700062,
+      "username": "@Triple_3z",
+      "xp": 134,
+      "level": 1
+    },
+    {
+      "rank": 8,
       "user_id": 1604528787,
       "username": "@wizzyxx",
       "xp": 97,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 84,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 6969979739,
       "username": "D",
       "xp": 76,
-      "level": 0
-    },
-    {
-      "rank": 10,
-      "user_id": 7140700062,
-      "username": "@Triple_3z",
-      "xp": 64,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-15T19:47:37.734927",
+  "last_updated": "2025-12-15T19:49:41.519216",
   "total_users": 20
 }
