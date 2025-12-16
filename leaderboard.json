@@ -54,8 +54,8 @@
       "rank": 8,
       "user_id": 1604528787,
       "username": "@wizzyxx",
-      "xp": 99,
-      "level": 0
+      "xp": 100,
+      "level": 1
     },
     {
       "rank": 9,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-16T05:54:23.726394",
+  "last_updated": "2025-12-16T05:56:27.469261",
   "total_users": 20
 }
