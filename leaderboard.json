@@ -3,23 +3,23 @@
   "leaderboard": [
     {
       "rank": 1,
+      "user_id": 7759088610,
+      "username": "@SYsmartAdogu",
+      "xp": 405,
+      "level": 4
+    },
+    {
+      "rank": 2,
       "user_id": 6476061153,
       "username": "@cromaxx",
       "xp": 310,
       "level": 3
     },
     {
-      "rank": 2,
+      "rank": 3,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 307,
-      "level": 3
-    },
-    {
-      "rank": 3,
-      "user_id": 7759088610,
-      "username": "@SYsmartAdogu",
-      "xp": 305,
       "level": 3
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-15T18:47:45.713876",
+  "last_updated": "2025-12-15T18:49:49.504584",
   "total_users": 20
 }
