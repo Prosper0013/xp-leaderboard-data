@@ -94,16 +94,16 @@
     },
     {
       "rank": 14,
-      "user_id": 7032939933,
-      "username": "@ronbachman",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 7,
       "level": 0
     },
     {
       "rank": 15,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 6,
+      "user_id": 7032939933,
+      "username": "@ronbachman",
+      "xp": 7,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-16T16:22:24.363835",
+  "last_updated": "2025-12-16T16:24:28.228800",
   "total_users": 20
 }
