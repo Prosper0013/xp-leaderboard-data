@@ -87,16 +87,16 @@
     },
     {
       "rank": 13,
-      "user_id": 7522182998,
-      "username": "@shaung_p",
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
       "xp": 4,
       "level": 0
     },
     {
       "rank": 14,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 3,
+      "user_id": 7522182998,
+      "username": "@shaung_p",
+      "xp": 4,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-16T04:42:04.303143",
+  "last_updated": "2025-12-16T04:44:08.273751",
   "total_users": 20
 }
