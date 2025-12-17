@@ -33,7 +33,7 @@
       "rank": 5,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 442,
+      "xp": 443,
       "level": 4
     },
     {
@@ -101,47 +101,47 @@
     },
     {
       "rank": 15,
+      "user_id": 100294326,
+      "username": "@xXCHNGx",
+      "xp": 60,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 7522182998,
       "username": "@shaung_p",
       "xp": 9,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7032939933,
       "username": "@ronbachman",
       "xp": 7,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
       "xp": 5,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 7029536070,
       "username": "@mayersHQ",
       "xp": 4,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 7087232930,
       "username": "@Owner_biggems_02",
       "xp": 3,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 7124792062,
-      "username": "@Baronyr",
-      "xp": 3,
-      "level": 0
     }
   ],
-  "last_updated": "2025-12-17T08:12:38.308262",
+  "last_updated": "2025-12-17T08:14:43.799554",
   "total_users": 20
 }
