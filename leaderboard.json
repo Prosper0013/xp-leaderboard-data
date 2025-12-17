@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 6476061153,
       "username": "@cromaxx",
-      "xp": 510,
+      "xp": 511,
       "level": 5
     },
     {
@@ -87,15 +87,15 @@
     },
     {
       "rank": 13,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 74,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 75,
       "level": 0
     },
     {
       "rank": 14,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 74,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-17T06:35:33.731177",
+  "last_updated": "2025-12-17T06:37:37.711811",
   "total_users": 20
 }
