@@ -80,16 +80,16 @@
     },
     {
       "rank": 12,
-      "user_id": 6969979739,
-      "username": "D",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 80,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 79,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 80,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-17T18:33:48.013145",
+  "last_updated": "2025-12-17T18:35:51.908311",
   "total_users": 20
 }
