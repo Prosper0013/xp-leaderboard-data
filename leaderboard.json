@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 1604528787,
-      "username": "@wizzyxx",
-      "xp": 104,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 105,
       "level": 1
     },
     {
       "rank": 13,
-      "user_id": 7642527839,
-      "username": "RonnyR",
+      "user_id": 1604528787,
+      "username": "@wizzyxx",
       "xp": 104,
       "level": 1
     },
@@ -124,7 +124,7 @@
       "rank": 18,
       "user_id": 1268008610,
       "username": "@Joybae_art_pawtato",
-      "xp": 10,
+      "xp": 11,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-18T16:38:31.356822",
+  "last_updated": "2025-12-18T16:40:34.642326",
   "total_users": 20
 }
