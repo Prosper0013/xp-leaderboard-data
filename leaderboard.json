@@ -66,15 +66,15 @@
     },
     {
       "rank": 10,
-      "user_id": 1604528787,
-      "username": "@wizzyxx",
-      "xp": 104,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 106,
       "level": 1
     },
     {
       "rank": 11,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
+      "user_id": 1604528787,
+      "username": "@wizzyxx",
       "xp": 104,
       "level": 1
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-18T10:21:13.915734",
+  "last_updated": "2025-12-18T10:23:18.026486",
   "total_users": 20
 }
