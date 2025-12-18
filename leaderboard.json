@@ -3,24 +3,24 @@
   "leaderboard": [
     {
       "rank": 1,
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 839,
+      "level": 8
+    },
+    {
+      "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 647,
       "level": 6
     },
     {
-      "rank": 2,
+      "rank": 3,
       "user_id": 7453970543,
       "username": "@LeurieFTW",
       "xp": 600,
       "level": 6
-    },
-    {
-      "rank": 3,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 538,
-      "level": 5
     },
     {
       "rank": 4,
@@ -52,43 +52,43 @@
     },
     {
       "rank": 8,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 143,
+      "level": 1
+    },
+    {
+      "rank": 9,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
       "xp": 131,
       "level": 1
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 1604528787,
       "username": "@wizzyxx",
       "xp": 104,
       "level": 1
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 6467610259,
       "username": "@Emmysui",
       "xp": 104,
       "level": 1
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 96,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 1484655033,
       "username": "@Ribeiro231e3",
-      "xp": 80,
-      "level": 0
-    },
-    {
-      "rank": 13,
-      "user_id": 6969979739,
-      "username": "D",
       "xp": 80,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-18T02:54:51.133674",
+  "last_updated": "2025-12-18T02:56:54.293572",
   "total_users": 20
 }
