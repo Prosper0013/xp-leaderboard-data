@@ -12,15 +12,15 @@
       "rank": 2,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 761,
-      "level": 7
+      "xp": 821,
+      "level": 8
     },
     {
       "rank": 3,
       "user_id": 7453970543,
       "username": "@LeurieFTW",
-      "xp": 600,
-      "level": 6
+      "xp": 700,
+      "level": 7
     },
     {
       "rank": 4,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-19T00:39:46.396344",
+  "last_updated": "2025-12-19T00:41:49.878233",
   "total_users": 20
 }
