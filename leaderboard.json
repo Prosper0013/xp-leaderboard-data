@@ -61,8 +61,8 @@
       "rank": 9,
       "user_id": 100294326,
       "username": "@xXCHNGx",
-      "xp": 210,
-      "level": 2
+      "xp": 300,
+      "level": 3
     },
     {
       "rank": 10,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-20T06:28:22.779225",
+  "last_updated": "2025-12-20T06:30:26.190825",
   "total_users": 20
 }
