@@ -19,7 +19,7 @@
       "rank": 3,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 951,
+      "xp": 952,
       "level": 9
     },
     {
@@ -75,7 +75,7 @@
       "rank": 11,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 116,
+      "xp": 118,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-20T07:46:20.769377",
+  "last_updated": "2025-12-20T07:48:23.746785",
   "total_users": 20
 }
