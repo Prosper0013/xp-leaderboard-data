@@ -87,16 +87,16 @@
     },
     {
       "rank": 13,
-      "user_id": 1604528787,
-      "username": "@wizzyxx",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 104,
       "level": 1
     },
     {
       "rank": 14,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 102,
+      "user_id": 1604528787,
+      "username": "@wizzyxx",
+      "xp": 104,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-20T13:41:18.333875",
+  "last_updated": "2025-12-20T13:43:21.350653",
   "total_users": 20
 }
