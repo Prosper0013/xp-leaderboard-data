@@ -17,17 +17,17 @@
     },
     {
       "rank": 3,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 949,
+      "level": 9
+    },
+    {
+      "rank": 4,
       "user_id": 7453970543,
       "username": "@LeurieFTW",
       "xp": 700,
       "level": 7
-    },
-    {
-      "rank": 4,
-      "user_id": 5745879955,
-      "username": "@Dizebe",
-      "xp": 649,
-      "level": 6
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-19T22:48:50.362358",
+  "last_updated": "2025-12-19T22:50:53.201020",
   "total_users": 20
 }
