@@ -26,8 +26,8 @@
       "rank": 4,
       "user_id": 7453970543,
       "username": "@LeurieFTW",
-      "xp": 700,
-      "level": 7
+      "xp": 800,
+      "level": 8
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-19T23:44:13.600107",
+  "last_updated": "2025-12-19T23:46:16.760461",
   "total_users": 20
 }
