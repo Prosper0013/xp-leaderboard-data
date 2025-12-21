@@ -19,8 +19,8 @@
       "rank": 3,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 960,
-      "level": 9
+      "xp": 1060,
+      "level": 10
     },
     {
       "rank": 4,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-21T05:08:53.431563",
+  "last_updated": "2025-12-21T05:10:56.279958",
   "total_users": 20
 }
