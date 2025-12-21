@@ -10,71 +10,71 @@
     },
     {
       "rank": 2,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 3,
       "user_id": 6476061153,
       "username": "@cromaxx",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 3,
+      "rank": 4,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": 502893727,
       "username": "@CryptoLogiccc",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": 722862881,
       "username": "@ahmdsaupi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 1022187139,
       "username": "@Heyb3o",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 1106353021,
       "username": "@IZROTHGA",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 1268008610,
       "username": "@Joybae_art_pawtato",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 11,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-21T17:19:39.349519",
+  "last_updated": "2025-12-21T17:21:42.736604",
   "total_users": 20
 }
