@@ -45,23 +45,23 @@
     },
     {
       "rank": 7,
+      "user_id": 100294326,
+      "username": "@xXCHNGx",
+      "xp": 400,
+      "level": 4
+    },
+    {
+      "rank": 8,
       "user_id": 7140700062,
       "username": "@Triple_3z",
       "xp": 304,
       "level": 3
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
       "xp": 301,
-      "level": 3
-    },
-    {
-      "rank": 9,
-      "user_id": 100294326,
-      "username": "@xXCHNGx",
-      "xp": 300,
       "level": 3
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-21T05:31:27.621021",
+  "last_updated": "2025-12-21T05:33:30.780441",
   "total_users": 20
 }
