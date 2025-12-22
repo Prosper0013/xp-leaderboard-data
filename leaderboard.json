@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 6969979739,
-      "username": "D",
-      "xp": 5,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 6,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 7642527839,
-      "username": "RonnyR",
+      "user_id": 6969979739,
+      "username": "D",
       "xp": 5,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-22T16:03:38.364533",
+  "last_updated": "2025-12-22T16:05:42.036987",
   "total_users": 20
 }
