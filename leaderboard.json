@@ -47,7 +47,7 @@
       "rank": 7,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 76,
+      "xp": 78,
       "level": 0
     },
     {
@@ -101,29 +101,29 @@
     },
     {
       "rank": 15,
+      "user_id": 5444918592,
+      "username": "@candle200",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 7027585935,
       "username": "@maxi_iiiii",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7611709300,
       "username": "@VanJohnovich",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 590866341,
       "username": "@tijad1",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 18,
-      "user_id": 5444918592,
-      "username": "@candle200",
       "xp": 1,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-22T17:34:28.902778",
+  "last_updated": "2025-12-22T17:36:32.102429",
   "total_users": 20
 }
