@@ -122,16 +122,16 @@
     },
     {
       "rank": 18,
-      "user_id": 7611709300,
-      "username": "@VanJohnovich",
+      "user_id": 6476061153,
+      "username": "@cromaxx",
       "xp": 3,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
-      "xp": 2,
+      "user_id": 7611709300,
+      "username": "@VanJohnovich",
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-23T08:12:32.530370",
+  "last_updated": "2025-12-23T08:14:36.153755",
   "total_users": 20
 }
