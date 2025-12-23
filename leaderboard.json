@@ -115,22 +115,22 @@
     },
     {
       "rank": 17,
+      "user_id": 7611709300,
+      "username": "@VanJohnovich",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 18,
       "user_id": 6476061153,
       "username": "@cromaxx",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 7027585935,
       "username": "@maxi_iiiii",
-      "xp": 2,
-      "level": 0
-    },
-    {
-      "rank": 19,
-      "user_id": 7611709300,
-      "username": "@VanJohnovich",
       "xp": 2,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-22T22:46:26.601249",
+  "last_updated": "2025-12-22T22:48:30.491531",
   "total_users": 20
 }
