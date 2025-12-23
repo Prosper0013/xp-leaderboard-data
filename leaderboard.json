@@ -17,23 +17,23 @@
     },
     {
       "rank": 3,
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 194,
+      "level": 1
+    },
+    {
+      "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
       "xp": 164,
       "level": 1
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user_id": 1268008610,
       "username": "@Joybae_art_pawtato",
       "xp": 145,
-      "level": 1
-    },
-    {
-      "rank": 5,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 133,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-23T04:56:18.828680",
+  "last_updated": "2025-12-23T04:58:23.283895",
   "total_users": 20
 }
