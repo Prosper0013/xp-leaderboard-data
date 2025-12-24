@@ -5,15 +5,15 @@
       "rank": 1,
       "user_id": 7453970543,
       "username": "@LeurieFTW",
-      "xp": 400,
-      "level": 4
+      "xp": 500,
+      "level": 5
     },
     {
       "rank": 2,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 262,
-      "level": 2
+      "xp": 362,
+      "level": 3
     },
     {
       "rank": 3,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-24T02:00:15.691324",
+  "last_updated": "2025-12-24T02:02:19.786316",
   "total_users": 20
 }
