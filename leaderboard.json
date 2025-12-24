@@ -26,7 +26,7 @@
       "rank": 4,
       "user_id": 1268008610,
       "username": "@Joybae_art_pawtato",
-      "xp": 251,
+      "xp": 253,
       "level": 2
     },
     {
@@ -82,8 +82,8 @@
       "rank": 12,
       "user_id": 7642527839,
       "username": "RonnyR",
-      "xp": 99,
-      "level": 0
+      "xp": 100,
+      "level": 1
     },
     {
       "rank": 13,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-24T10:13:47.278512",
+  "last_updated": "2025-12-24T10:15:51.752399",
   "total_users": 20
 }
