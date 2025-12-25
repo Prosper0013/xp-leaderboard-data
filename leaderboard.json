@@ -12,8 +12,8 @@
       "rank": 2,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 367,
-      "level": 3
+      "xp": 467,
+      "level": 4
     },
     {
       "rank": 3,
@@ -38,16 +38,16 @@
     },
     {
       "rank": 6,
-      "user_id": 7251368458,
-      "username": "@rezzzzzzax",
-      "xp": 215,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 270,
       "level": 2
     },
     {
       "rank": 7,
-      "user_id": 5357785251,
-      "username": "@milfhunter4888",
-      "xp": 210,
+      "user_id": 7251368458,
+      "username": "@rezzzzzzax",
+      "xp": 215,
       "level": 2
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-24T22:51:29.989223",
+  "last_updated": "2025-12-24T22:53:33.601536",
   "total_users": 20
 }
