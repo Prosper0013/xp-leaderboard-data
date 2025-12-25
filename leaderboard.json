@@ -122,16 +122,16 @@
     },
     {
       "rank": 18,
-      "user_id": 7211044818,
-      "username": "@SolanaMaxiOG",
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
       "xp": 6,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 5594697253,
-      "username": "@Sir_sharpzy",
-      "xp": 5,
+      "user_id": 7211044818,
+      "username": "@SolanaMaxiOG",
+      "xp": 6,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-25T17:25:02.336059",
+  "last_updated": "2025-12-25T17:27:06.333403",
   "total_users": 20
 }
