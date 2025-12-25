@@ -66,16 +66,16 @@
     },
     {
       "rank": 10,
-      "user_id": 7759088610,
-      "username": "@SYsmartAdogu",
-      "xp": 134,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 175,
       "level": 1
     },
     {
       "rank": 11,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 115,
+      "user_id": 7759088610,
+      "username": "@SYsmartAdogu",
+      "xp": 134,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-25T03:35:01.602755",
+  "last_updated": "2025-12-25T03:37:04.921953",
   "total_users": 20
 }
