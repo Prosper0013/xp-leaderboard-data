@@ -40,8 +40,8 @@
       "rank": 6,
       "user_id": 7251368458,
       "username": "@rezzzzzzax",
-      "xp": 305,
-      "level": 3
+      "xp": 405,
+      "level": 4
     },
     {
       "rank": 7,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-26T08:16:10.842003",
+  "last_updated": "2025-12-26T08:18:14.745341",
   "total_users": 20
 }
