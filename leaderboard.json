@@ -12,14 +12,14 @@
       "rank": 2,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 622,
+      "xp": 626,
       "level": 6
     },
     {
       "rank": 3,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 601,
+      "xp": 602,
       "level": 6
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-26T07:24:35.983253",
+  "last_updated": "2025-12-26T07:26:39.583560",
   "total_users": 20
 }
