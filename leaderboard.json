@@ -54,7 +54,7 @@
       "rank": 8,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 210,
+      "xp": 211,
       "level": 2
     },
     {
@@ -68,7 +68,7 @@
       "rank": 10,
       "user_id": 1484655033,
       "username": "@Ribeiro231e3",
-      "xp": 178,
+      "xp": 180,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-27T00:09:05.532628",
+  "last_updated": "2025-12-27T00:11:08.652317",
   "total_users": 20
 }
