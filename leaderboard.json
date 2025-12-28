@@ -129,19 +129,19 @@
     },
     {
       "rank": 19,
-      "user_id": 6385740327,
-      "username": "@dg_onchain",
-      "xp": 7,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 8,
       "level": 0
     },
     {
       "rank": 20,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 6385740327,
+      "username": "@dg_onchain",
       "xp": 7,
       "level": 0
     }
   ],
-  "last_updated": "2025-12-27T19:35:47.286765",
+  "last_updated": "2025-12-27T19:37:50.347892",
   "total_users": 20
 }
