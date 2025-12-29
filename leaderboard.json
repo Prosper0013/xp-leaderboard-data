@@ -10,15 +10,15 @@
     },
     {
       "rank": 2,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 100,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 101,
       "level": 1
     },
     {
       "rank": 3,
-      "user_id": 5745879955,
-      "username": "@Dizebe",
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
       "xp": 100,
       "level": 1
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-29T02:41:34.832303",
+  "last_updated": "2025-12-29T02:43:38.111787",
   "total_users": 20
 }
