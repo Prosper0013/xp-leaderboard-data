@@ -115,33 +115,33 @@
     },
     {
       "rank": 17,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 18,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 502893727,
       "username": "@CryptoLogiccc",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 538134719,
-      "username": "@TheKing702",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2025-12-29T13:24:17.166202",
+  "last_updated": "2025-12-29T13:26:20.799583",
   "total_users": 20
 }
