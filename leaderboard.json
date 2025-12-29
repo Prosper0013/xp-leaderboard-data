@@ -73,16 +73,16 @@
     },
     {
       "rank": 11,
-      "user_id": 5788946498,
-      "username": "@DevilleSui",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 2,
       "level": 0
     },
     {
       "rank": 12,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 1,
+      "user_id": 5788946498,
+      "username": "@DevilleSui",
+      "xp": 2,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-29T07:30:32.443590",
+  "last_updated": "2025-12-29T07:32:37.053472",
   "total_users": 20
 }
