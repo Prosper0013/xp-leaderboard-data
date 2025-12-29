@@ -73,16 +73,16 @@
     },
     {
       "rank": 11,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
+      "user_id": 1268008610,
+      "username": "@Joybae_art_pawtato",
       "xp": 3,
       "level": 0
     },
     {
       "rank": 12,
-      "user_id": 1268008610,
-      "username": "@Joybae_art_pawtato",
-      "xp": 2,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-29T10:20:20.163666",
+  "last_updated": "2025-12-29T10:22:24.426590",
   "total_users": 20
 }
