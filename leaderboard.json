@@ -45,16 +45,16 @@
     },
     {
       "rank": 7,
-      "user_id": 8112916103,
-      "username": "@Oxninjasui",
+      "user_id": 7105730933,
+      "username": "@abiclighter",
       "xp": 80,
       "level": 0
     },
     {
       "rank": 8,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 79,
+      "user_id": 8112916103,
+      "username": "@Oxninjasui",
+      "xp": 80,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-29T13:44:54.049806",
+  "last_updated": "2025-12-29T13:46:57.725288",
   "total_users": 20
 }
