@@ -40,7 +40,7 @@
       "rank": 6,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 116,
+      "xp": 117,
       "level": 1
     },
     {
@@ -94,29 +94,29 @@
     },
     {
       "rank": 14,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 15,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 7032939933,
       "username": "@ronbachman",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 5972301919,
       "username": "@warlordsui",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 17,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
       "xp": 1,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2025-12-29T19:47:30.943320",
+  "last_updated": "2025-12-29T19:49:34.669010",
   "total_users": 20
 }
