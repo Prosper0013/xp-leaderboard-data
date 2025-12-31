@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 731,
+      "xp": 732,
       "level": 7
     },
     {
@@ -33,7 +33,7 @@
       "rank": 5,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 254,
+      "xp": 259,
       "level": 2
     },
     {
@@ -87,61 +87,61 @@
     },
     {
       "rank": 13,
+      "user_id": 7759088610,
+      "username": "@KYRIAKOSKOS",
+      "xp": 63,
+      "level": 0
+    },
+    {
+      "rank": 14,
       "user_id": 1484655033,
       "username": "@Ribeiro231e3",
       "xp": 54,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 6476061153,
       "username": "@cromaxx",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 5788946498,
       "username": "@DevilleSui",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7032939933,
       "username": "@ronbachman",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 5972301919,
       "username": "@warlordsui",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 7484096552,
       "username": "@lleulogyll",
       "xp": 1,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 7759088610,
-      "username": "@KYRIAKOSKOS",
-      "xp": 1,
-      "level": 0
     }
   ],
-  "last_updated": "2025-12-30T18:14:30.495085",
+  "last_updated": "2025-12-30T18:16:34.178319",
   "total_users": 20
 }
