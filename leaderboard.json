@@ -122,26 +122,26 @@
     },
     {
       "rank": 18,
+      "user_id": 6095067237,
+      "username": "@itsavacrypto",
+      "xp": 5,
+      "level": 0
+    },
+    {
+      "rank": 19,
       "user_id": 6343191507,
       "username": "@WHAP18",
       "xp": 3,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
       "xp": 2,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 5788946498,
-      "username": "@DevilleSui",
-      "xp": 2,
-      "level": 0
     }
   ],
-  "last_updated": "2026-01-02T08:33:12.662357",
+  "last_updated": "2026-01-02T08:35:17.224608",
   "total_users": 20
 }
