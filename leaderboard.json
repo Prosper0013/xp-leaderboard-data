@@ -115,16 +115,16 @@
     },
     {
       "rank": 17,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 6343191507,
+      "username": "@WHAP18",
       "xp": 8,
       "level": 0
     },
     {
       "rank": 18,
-      "user_id": 6343191507,
-      "username": "@WHAP18",
-      "xp": 7,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 8,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-02T17:28:45.994670",
+  "last_updated": "2026-01-02T17:30:49.701130",
   "total_users": 20
 }
