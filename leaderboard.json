@@ -47,14 +47,14 @@
       "rank": 7,
       "user_id": 5745879955,
       "username": "@Dizebe",
-      "xp": 306,
+      "xp": 308,
       "level": 3
     },
     {
       "rank": 8,
       "user_id": 7090548617,
       "username": "@Eddieshq",
-      "xp": 240,
+      "xp": 241,
       "level": 2
     },
     {
@@ -103,7 +103,7 @@
       "rank": 15,
       "user_id": 6716963302,
       "username": "@mrjarry",
-      "xp": 57,
+      "xp": 58,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-02T07:51:51.437435",
+  "last_updated": "2026-01-02T07:53:55.485704",
   "total_users": 20
 }
