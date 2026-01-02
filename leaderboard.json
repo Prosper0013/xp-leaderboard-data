@@ -5,7 +5,7 @@
       "rank": 1,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 1093,
+      "xp": 1094,
       "level": 10
     },
     {
@@ -122,16 +122,16 @@
     },
     {
       "rank": 18,
-      "user_id": 6095067237,
-      "username": "@itsavacrypto",
-      "xp": 6,
+      "user_id": 6343191507,
+      "username": "@WHAP18",
+      "xp": 7,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 6343191507,
-      "username": "@WHAP18",
-      "xp": 4,
+      "user_id": 6095067237,
+      "username": "@itsavacrypto",
+      "xp": 6,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-02T17:24:39.303560",
+  "last_updated": "2026-01-02T17:26:42.531313",
   "total_users": 20
 }
