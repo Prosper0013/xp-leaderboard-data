@@ -101,23 +101,23 @@
     },
     {
       "rank": 15,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 62,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 6343191507,
       "username": "@WHAP18",
       "xp": 62,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 61,
-      "level": 0
-    },
-    {
-      "rank": 17,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 60,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-03T12:19:36.440791",
+  "last_updated": "2026-01-03T12:21:40.198633",
   "total_users": 20
 }
