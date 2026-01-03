@@ -129,19 +129,19 @@
     },
     {
       "rank": 19,
-      "user_id": 6476061153,
-      "username": "@cromaxx",
+      "user_id": 6068696446,
+      "username": "@leadslash",
       "xp": 8,
       "level": 0
     },
     {
       "rank": 20,
-      "user_id": 6068696446,
-      "username": "@leadslash",
-      "xp": 7,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 8,
       "level": 0
     }
   ],
-  "last_updated": "2026-01-03T14:00:23.929446",
+  "last_updated": "2026-01-03T14:02:27.014937",
   "total_users": 20
 }
