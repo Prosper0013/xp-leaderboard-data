@@ -38,23 +38,23 @@
     },
     {
       "rank": 6,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 372,
+      "level": 3
+    },
+    {
+      "rank": 7,
       "user_id": 8112916103,
       "username": "@Oxninjasui",
       "xp": 370,
       "level": 3
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 1268008610,
       "username": "@Joybae_art_pawtato",
       "xp": 367,
-      "level": 3
-    },
-    {
-      "rank": 8,
-      "user_id": 5745879955,
-      "username": "@Dizebe",
-      "xp": 312,
       "level": 3
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-03T05:01:20.188735",
+  "last_updated": "2026-01-03T05:03:23.076961",
   "total_users": 20
 }
