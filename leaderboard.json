@@ -101,15 +101,15 @@
     },
     {
       "rank": 15,
-      "user_id": 100294326,
-      "username": "@xXCHNGx",
-      "xp": 61,
+      "user_id": 6343191507,
+      "username": "@WHAP18",
+      "xp": 62,
       "level": 0
     },
     {
       "rank": 16,
-      "user_id": 6343191507,
-      "username": "@WHAP18",
+      "user_id": 100294326,
+      "username": "@xXCHNGx",
       "xp": 61,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-03T09:47:20.441352",
+  "last_updated": "2026-01-03T09:49:23.679132",
   "total_users": 20
 }
