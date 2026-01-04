@@ -73,30 +73,30 @@
     },
     {
       "rank": 11,
+      "user_id": 6671014025,
+      "username": "@Crypticmd",
+      "xp": 133,
+      "level": 1
+    },
+    {
+      "rank": 12,
       "user_id": 7578346923,
       "username": "Segigo",
       "xp": 132,
       "level": 1
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 1484655033,
       "username": "@Ribeiro231e3",
       "xp": 112,
       "level": 1
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 73,
-      "level": 0
-    },
-    {
-      "rank": 14,
-      "user_id": 6671014025,
-      "username": "@Crypticmd",
-      "xp": 63,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-03T23:48:20.316211",
+  "last_updated": "2026-01-03T23:50:23.579750",
   "total_users": 20
 }
