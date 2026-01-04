@@ -17,17 +17,17 @@
     },
     {
       "rank": 3,
-      "user_id": 7453970543,
-      "username": "@LeurieFTW",
-      "xp": 800,
+      "user_id": 7611709300,
+      "username": "@VanJohnovich",
+      "xp": 892,
       "level": 8
     },
     {
       "rank": 4,
-      "user_id": 7611709300,
-      "username": "@VanJohnovich",
-      "xp": 792,
-      "level": 7
+      "user_id": 7453970543,
+      "username": "@LeurieFTW",
+      "xp": 800,
+      "level": 8
     },
     {
       "rank": 5,
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-04T01:37:16.350431",
+  "last_updated": "2026-01-04T01:39:19.576757",
   "total_users": 20
 }
