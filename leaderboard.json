@@ -73,15 +73,15 @@
     },
     {
       "rank": 11,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
-      "xp": 137,
+      "user_id": 6671014025,
+      "username": "@Crypticmd",
+      "xp": 139,
       "level": 1
     },
     {
       "rank": 12,
-      "user_id": 6671014025,
-      "username": "@Crypticmd",
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
       "xp": 137,
       "level": 1
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-04T07:02:05.966800",
+  "last_updated": "2026-01-04T07:04:09.303908",
   "total_users": 20
 }
