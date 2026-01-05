@@ -94,54 +94,54 @@
     },
     {
       "rank": 14,
+      "user_id": 7389414950,
+      "username": "@DonBASE2",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 15,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 502893727,
       "username": "@CryptoLogiccc",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 538134719,
       "username": "@TheKing702",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 590866341,
       "username": "@tijad1",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 722862881,
       "username": "@ahmdsaupi",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 1022187139,
-      "username": "@Heyb3o",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2026-01-05T02:06:09.747388",
+  "last_updated": "2026-01-05T02:08:14.333833",
   "total_users": 20
 }
