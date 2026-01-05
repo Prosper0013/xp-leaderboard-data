@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 74,
+      "xp": 75,
       "level": 0
     },
     {
@@ -80,36 +80,36 @@
     },
     {
       "rank": 12,
+      "user_id": 8241018048,
+      "username": "Remy",
+      "xp": 7,
+      "level": 0
+    },
+    {
+      "rank": 13,
       "user_id": 471617238,
       "username": "@Guijean55",
       "xp": 6,
       "level": 0
     },
     {
-      "rank": 13,
-      "user_id": 8241018048,
-      "username": "Remy",
-      "xp": 5,
+      "rank": 14,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 6,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 4,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 6095067237,
       "username": "@itsavacrypto",
-      "xp": 3,
-      "level": 0
-    },
-    {
-      "rank": 16,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
       "xp": 3,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T06:52:04.690774",
+  "last_updated": "2026-01-05T06:54:08.982043",
   "total_users": 20
 }
