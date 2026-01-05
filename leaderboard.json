@@ -38,16 +38,16 @@
     },
     {
       "rank": 6,
-      "user_id": 5745879955,
-      "username": "@Dizebe",
-      "xp": 85,
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 87,
       "level": 0
     },
     {
       "rank": 7,
-      "user_id": 1638084297,
-      "username": "@IceFlurryX",
-      "xp": 84,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 85,
       "level": 0
     },
     {
@@ -124,7 +124,7 @@
       "rank": 18,
       "user_id": 7207325031,
       "username": "@onaolapo0010",
-      "xp": 2,
+      "xp": 3,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T12:58:08.356425",
+  "last_updated": "2026-01-05T13:00:12.590178",
   "total_users": 20
 }
