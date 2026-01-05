@@ -73,22 +73,22 @@
     },
     {
       "rank": 11,
+      "user_id": 7759088610,
+      "username": "@KYRIAKOSKOS",
+      "xp": 61,
+      "level": 0
+    },
+    {
+      "rank": 12,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 60,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 5594697253,
       "username": "@Sir_sharpzy",
-      "xp": 60,
-      "level": 0
-    },
-    {
-      "rank": 13,
-      "user_id": 7759088610,
-      "username": "@KYRIAKOSKOS",
       "xp": 60,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T17:37:29.798255",
+  "last_updated": "2026-01-05T17:39:33.890615",
   "total_users": 20
 }
