@@ -10,16 +10,16 @@
     },
     {
       "rank": 2,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 117,
+      "user_id": 1268008610,
+      "username": "@Joybae_art_pawtato",
+      "xp": 185,
       "level": 1
     },
     {
       "rank": 3,
-      "user_id": 1268008610,
-      "username": "@Joybae_art_pawtato",
-      "xp": 103,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 117,
       "level": 1
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T04:12:30.502592",
+  "last_updated": "2026-01-05T04:14:34.241006",
   "total_users": 20
 }
