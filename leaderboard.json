@@ -94,23 +94,23 @@
     },
     {
       "rank": 14,
+      "user_id": 6095067237,
+      "username": "@itsavacrypto",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 15,
       "user_id": 6467610259,
       "username": "@Emmysui",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 7609199902,
       "username": "BASELANA GROUP",
       "xp": 2,
-      "level": 0
-    },
-    {
-      "rank": 16,
-      "user_id": 6095067237,
-      "username": "@itsavacrypto",
-      "xp": 1,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T06:14:48.453017",
+  "last_updated": "2026-01-05T06:16:52.316992",
   "total_users": 20
 }
