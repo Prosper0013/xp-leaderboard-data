@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 71,
+      "xp": 73,
       "level": 0
     },
     {
@@ -101,47 +101,47 @@
     },
     {
       "rank": 15,
+      "user_id": 8241018048,
+      "username": "Remy",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 16,
       "user_id": 6467610259,
       "username": "@Emmysui",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": 7609199902,
       "username": "BASELANA GROUP",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 7090548617,
       "username": "@Eddieshq",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": 7389414950,
       "username": "@DonBASE2",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
-    },
-    {
-      "rank": 20,
-      "user_id": 477422616,
-      "username": "@NovaliteltdAdmin",
-      "xp": 0,
-      "level": 0
     }
   ],
-  "last_updated": "2026-01-05T06:23:05.228125",
+  "last_updated": "2026-01-05T06:25:10.713420",
   "total_users": 20
 }
