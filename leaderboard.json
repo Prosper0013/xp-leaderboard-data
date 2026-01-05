@@ -108,22 +108,22 @@
     },
     {
       "rank": 16,
+      "user_id": 6467610259,
+      "username": "@Emmysui",
+      "xp": 9,
+      "level": 0
+    },
+    {
+      "rank": 17,
       "user_id": 7642527839,
       "username": "RonnyR",
       "xp": 7,
       "level": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": 471617238,
       "username": "@Guijean55",
-      "xp": 6,
-      "level": 0
-    },
-    {
-      "rank": 18,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
       "xp": 6,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T17:23:02.124699",
+  "last_updated": "2026-01-05T17:25:06.175196",
   "total_users": 20
 }
