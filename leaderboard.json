@@ -26,14 +26,14 @@
       "rank": 4,
       "user_id": 7105730933,
       "username": "@abiclighter",
-      "xp": 54,
+      "xp": 56,
       "level": 0
     },
     {
       "rank": 5,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
-      "xp": 2,
+      "xp": 8,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-04T18:02:37.873978",
+  "last_updated": "2026-01-04T18:04:42.101635",
   "total_users": 20
 }
