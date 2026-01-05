@@ -122,15 +122,15 @@
     },
     {
       "rank": 18,
-      "user_id": 6095067237,
-      "username": "@itsavacrypto",
-      "xp": 3,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 4,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
+      "user_id": 6095067237,
+      "username": "@itsavacrypto",
       "xp": 3,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T15:25:16.247550",
+  "last_updated": "2026-01-05T15:27:19.855341",
   "total_users": 20
 }
