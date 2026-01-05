@@ -94,16 +94,16 @@
     },
     {
       "rank": 14,
-      "user_id": 7609199902,
-      "username": "BASELANA GROUP",
+      "user_id": 6467610259,
+      "username": "@Emmysui",
       "xp": 2,
       "level": 0
     },
     {
       "rank": 15,
-      "user_id": 6467610259,
-      "username": "@Emmysui",
-      "xp": 1,
+      "user_id": 7609199902,
+      "username": "BASELANA GROUP",
+      "xp": 2,
       "level": 0
     },
     {
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T04:58:01.714547",
+  "last_updated": "2026-01-05T05:00:06.596390",
   "total_users": 20
 }
