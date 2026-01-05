@@ -80,15 +80,15 @@
     },
     {
       "rank": 12,
-      "user_id": 5526266767,
-      "username": "@mr_nero_art",
-      "xp": 9,
+      "user_id": 8241018048,
+      "username": "Remy",
+      "xp": 10,
       "level": 0
     },
     {
       "rank": 13,
-      "user_id": 8241018048,
-      "username": "Remy",
+      "user_id": 5526266767,
+      "username": "@mr_nero_art",
       "xp": 9,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T10:26:42.169173",
+  "last_updated": "2026-01-05T10:28:46.207850",
   "total_users": 20
 }
