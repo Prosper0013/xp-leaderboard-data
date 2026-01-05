@@ -61,7 +61,7 @@
       "rank": 9,
       "user_id": 1638084297,
       "username": "@IceFlurryX",
-      "xp": 73,
+      "xp": 74,
       "level": 0
     },
     {
@@ -94,15 +94,15 @@
     },
     {
       "rank": 14,
-      "user_id": 6095067237,
-      "username": "@itsavacrypto",
-      "xp": 3,
+      "user_id": 8241018048,
+      "username": "Remy",
+      "xp": 4,
       "level": 0
     },
     {
       "rank": 15,
-      "user_id": 8241018048,
-      "username": "Remy",
+      "user_id": 6095067237,
+      "username": "@itsavacrypto",
       "xp": 3,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T06:31:22.963140",
+  "last_updated": "2026-01-05T06:33:27.127020",
   "total_users": 20
 }
