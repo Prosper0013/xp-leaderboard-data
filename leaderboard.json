@@ -3,113 +3,113 @@
   "leaderboard": [
     {
       "rank": 1,
+      "user_id": 1268008610,
+      "username": "@Joybae_art_pawtato",
+      "xp": 101,
+      "level": 1
+    },
+    {
+      "rank": 2,
+      "user_id": 1484655033,
+      "username": "@Ribeiro231e3",
+      "xp": 75,
+      "level": 0
+    },
+    {
+      "rank": 3,
       "user_id": 8112916103,
       "username": "@Oxninjasui",
       "xp": 60,
       "level": 0
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 53,
+      "level": 0
+    },
+    {
+      "rank": 5,
       "user_id": 7609199902,
       "username": "BASELANA GROUP",
       "xp": 2,
       "level": 0
     },
     {
-      "rank": 3,
-      "user_id": 1268008610,
-      "username": "@Joybae_art_pawtato",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "user_id": 5526266767,
       "username": "@mr_nero_art",
       "xp": 1,
       "level": 0
     },
     {
-      "rank": 5,
-      "user_id": 7105730933,
-      "username": "@abiclighter",
-      "xp": 1,
-      "level": 0
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "user_id": 100294326,
       "username": "@xXCHNGx",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": 477422616,
       "username": "@NovaliteltdAdmin",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": 502893727,
       "username": "@CryptoLogiccc",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": 538134719,
       "username": "@TheKing702",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": 590866341,
       "username": "@tijad1",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": 722862881,
       "username": "@ahmdsaupi",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": 1022187139,
       "username": "@Heyb3o",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 13,
+      "rank": 14,
       "user_id": 1106353021,
       "username": "@IZROTHGA",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 14,
+      "rank": 15,
       "user_id": 1189624171,
       "username": "@iiiMrMiii",
       "xp": 0,
       "level": 0
     },
     {
-      "rank": 15,
+      "rank": 16,
       "user_id": 1356384452,
       "username": "@MSurfers",
-      "xp": 0,
-      "level": 0
-    },
-    {
-      "rank": 16,
-      "user_id": 1484655033,
-      "username": "@Ribeiro231e3",
       "xp": 0,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-04T17:58:29.959802",
+  "last_updated": "2026-01-04T18:00:33.759185",
   "total_users": 20
 }
