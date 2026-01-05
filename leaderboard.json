@@ -31,22 +31,22 @@
     },
     {
       "rank": 5,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 81,
+      "level": 0
+    },
+    {
+      "rank": 6,
       "user_id": 6671014025,
       "username": "@Crypticmd",
       "xp": 81,
       "level": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": 5357785251,
       "username": "@milfhunter4888",
-      "xp": 80,
-      "level": 0
-    },
-    {
-      "rank": 7,
-      "user_id": 5745879955,
-      "username": "@Dizebe",
       "xp": 80,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T05:16:40.581046",
+  "last_updated": "2026-01-05T05:18:44.823346",
   "total_users": 20
 }
