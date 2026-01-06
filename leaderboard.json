@@ -103,7 +103,7 @@
       "rank": 15,
       "user_id": 6467610259,
       "username": "@Emmysui",
-      "xp": 12,
+      "xp": 14,
       "level": 0
     },
     {
@@ -122,15 +122,15 @@
     },
     {
       "rank": 18,
-      "user_id": 471617238,
-      "username": "@Guijean55",
-      "xp": 6,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 7,
       "level": 0
     },
     {
       "rank": 19,
-      "user_id": 7090548617,
-      "username": "@Eddieshq",
+      "user_id": 471617238,
+      "username": "@Guijean55",
       "xp": 6,
       "level": 0
     },
@@ -142,6 +142,6 @@
       "level": 0
     }
   ],
-  "last_updated": "2026-01-05T19:00:11.023217",
+  "last_updated": "2026-01-05T19:02:15.282695",
   "total_users": 20
 }
