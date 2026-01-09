@@ -1,6 +1,133 @@
 {
   "success": true,
-  "leaderboard": [],
-  "last_updated": "2026-01-09T13:05:36.494516",
-  "total_users": 0
+  "leaderboard": [
+    {
+      "rank": 1,
+      "user_id": 1638084297,
+      "username": "@IceFlurryX",
+      "xp": 18,
+      "level": 0
+    },
+    {
+      "rank": 2,
+      "user_id": 7105730933,
+      "username": "@abiclighter",
+      "xp": 15,
+      "level": 0
+    },
+    {
+      "rank": 3,
+      "user_id": 7642527839,
+      "username": "RonnyR",
+      "xp": 11,
+      "level": 0
+    },
+    {
+      "rank": 4,
+      "user_id": 5745879955,
+      "username": "@Dizebe",
+      "xp": 8,
+      "level": 0
+    },
+    {
+      "rank": 5,
+      "user_id": 8099191714,
+      "username": "@danmarinosui",
+      "xp": 5,
+      "level": 0
+    },
+    {
+      "rank": 6,
+      "user_id": 8241018048,
+      "username": "@remyboy23",
+      "xp": 5,
+      "level": 0
+    },
+    {
+      "rank": 7,
+      "user_id": 7090548617,
+      "username": "@Eddieshq",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 8,
+      "user_id": 7110282003,
+      "username": "@Hey_its_Dre",
+      "xp": 3,
+      "level": 0
+    },
+    {
+      "rank": 9,
+      "user_id": 1268008610,
+      "username": "@Joybae_art_pawtato",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 10,
+      "user_id": 5594697253,
+      "username": "@Sir_sharpzy",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 11,
+      "user_id": 6476061153,
+      "username": "@cromaxx",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 12,
+      "user_id": 6969979739,
+      "username": "D",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 13,
+      "user_id": 7390689610,
+      "username": "@RealLuciferXD",
+      "xp": 2,
+      "level": 0
+    },
+    {
+      "rank": 14,
+      "user_id": 6363051488,
+      "username": "@Jeffnatius",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 15,
+      "user_id": 7251368458,
+      "username": "@rezzzzzzax",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 16,
+      "user_id": 7759088610,
+      "username": "@KYRIAKOSKOS",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 17,
+      "user_id": 8095048543,
+      "username": "@Axelbullsharkdev",
+      "xp": 1,
+      "level": 0
+    },
+    {
+      "rank": 18,
+      "user_id": 5357785251,
+      "username": "@milfhunter4888",
+      "xp": 0,
+      "level": 0
+    }
+  ],
+  "last_updated": "2026-01-09T13:07:37.452952",
+  "total_users": 18
 }
